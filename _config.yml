@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "PhD Candidate Minh N. H. Nguyen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nguyen Huu Nhat Minh"
+description              : &description "Research scientist at Kyung Hee University"
+url                      : https://nhatminh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "nhatminh/nhatminh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am currently PhD Candidate from Computer Science and Engineering at Kyung Hee University, South Korea. I am working as a leading researcher in the Intelligent Networking Laboratory. He received the BE degree in Computer Science and Engineering from the Hochiminh City University of Technology in 2013. After graduation, I am joined The University of Danang as a lecturer in Information Technology. My research interest includes network optimization, edge computing, federated learning."
+  location         : "Suwon, South Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=tnoge7wAAAAJ"
+  email            : "minhnhn@khu.ac.kr or nhatminhhcmut@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/nhat.minh.929"
   foursquare       :
-  github           : "academicpages"
+  github           : "nhatminh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3035-0816"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "None"
   vine             :
   weibo            :
   xing             :
