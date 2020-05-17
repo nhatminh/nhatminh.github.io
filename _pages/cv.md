@@ -27,15 +27,13 @@ Work experience
 * 2012: Intership
   * Pohang University, South Korea.
   
-Skills
+Research Topics
 ======
 * Research on Network Optimization, Edge Computing
 * Distributed AI, Democratized Learning, and Federated Learning
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 
-Publications
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
