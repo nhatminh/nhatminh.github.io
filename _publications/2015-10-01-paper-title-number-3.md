@@ -7,10 +7,10 @@ date: 2020-03-18
 venue: 'Submitted to IEEE Computational Intelligence Magazine'
 paperurl: 'https://arxiv.org/abs/2003.09301'
 
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Nguyen, Minh NH, et al. (2020). &quot;Distributed and Democratized Learning: Philosophy and Research Challenges.&quot; <i>arXiv:2003.09301</i>. 1(3).'
 ---
 This paper is about the philosophy design empowering the democracy in future large-scale distributed AI systems.
 
 [Download paper here](https://arxiv.org/abs/2003.09301)
 
-Recommended citation: Nguyen, Minh NH, et al. (2015). "Distributed and Democratized Learning: Philosophy and Research Challenges." <i>arXiv:2003.09301 </i>. 1(3).
+Recommended citation: Nguyen, Minh NH, et al. (2020). "Distributed and Democratized Learning: Philosophy and Research Challenges." <i>arXiv:2003.09301</i>. 1(3).
