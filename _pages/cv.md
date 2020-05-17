@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+### Personal Statement
+As a research scientist, I am passionate about developing substainable solutions for open challenges in future complex systems. Throughout this journey, I challenge myself with an openmind and keep exploring many new domains to improve my limited understanding. 
 
 Education
 ======
@@ -16,47 +18,48 @@ Education
 
 Work experience
 ======
-* 2015-now: Researcher
+* 2015-now: **Researcher, PhD Student**
   * Intelligence Networking Lab
   * Research on Network Optimization, Edge Computing
   * Distributed AI, Democratized Learning, and Federated Learning
   
-* 2014-now: Lecturer
+* 2014-now: **Lecturer**
   * The University of Danang
   * Teaching in Information Technology
   
-* 2014: Software Engineer
-  * Sioux
+* 2014: **Software Engineer**
+  * Sioux embedded systems, Danang
   * Developing applications for Embedded systems
 
-* 2012: Intership
+* 2012: **Intership student**
   * Pohang University, South Korea.
   
 Skills
 ======
 * Teamwork
-* Tutorial
+* Tutorials
 * Project management
+* Problem solving
 
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### 2020
+
+1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Kyi Thar, Nguyen H. Tran, Mingzhe Chen, Walid Saad, Choong Seon Hong, "Distributed and Democratized Learning: Philosophy and Research Challenges," *arXiv:2003.09301*, 2020. [Link Paper](https://arxiv.org/abs/2003.09301)
+2. **Minh N. H. Nguyen**, Chit Wutyee Zaw, Kitae Kim, Nguyen H. Tran, Choong Seon Hong, "Let's Share the Resource When We’re Co-Located: Colocation Edge Computing," *IEEE Transactions on Vehicular Technology*, Vol.69, Issue 5, pp.5618-5633, May. 2020. (DOI: 10.1109/TVT.2020.2982679). [Link Paper](https://ieeexplore.ieee.org/abstract/document/9050517)
+
+
+### 2019
+1. Canh Dinh, Nguyen H Tran, **Minh N. H. Nguyen**, Choong Seon Hong, Wei Bao, Albert Zomaya, Vincent Gramoli, "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation," *arXiv:1910.13067*, 2019. [Link Paper](https://arxiv.org/abs/1910.13067)
+2. Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, **Minh N. H. Nguyen**, Choong Seon Hong, "Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism," *arXiv:1911.05642*, 2019. [Link Paper](https://arxiv.org/abs/1911.05642)
+2. Nguyen H. Tran, Wei Bao, Albert Zomaya , **Minh N. H. Nguyen** and Choong Seon Hong, “Federated Learning over Wireless Networks: Optimization Model Design and Analysis,” IEEE International Conference on Computer Communications (INFOCOM 2019), April 29 - May 2, 2019, Paris, France. (Conference)
+
+### 2018
+1. **Minh N. H. Nguyen**, Nguyen H. Tran, Mohammad A. Islamy, Chuan Pham, Shaolei Ren, Choong Seon Hong, "Fair Sharing of Backup Power Supply in Multi-Operator Wireless Cellular Towers," *IEEE Transactions on Wireless Communications*, Vol.17, No.3, pp. 2080-2093, March 2018. (DOI: 10.1109/TWC.2017.2789195). [Link Paper](https://ieeexplore.ieee.org/document/8247284/)
+2. Nguyen H. Tran, Chuan Pham, **Minh N.H. Nguyen**, Shaolei Ren, Choong Seon Hong, "Incentivizing Energy Reduction for Emergency Demand Response in Multi-Tenant Mixed-Use Buildings," *IEEE Transactions on Smart Grid*, Vol.9, No.4, pp.3701- 3715, July 2018. [Link Paper](https://ieeexplore.ieee.org/document/8247284/) 
+3. Phuong Luu Vo, **Minh N. H. Nguyen**, Tuan Anh Le, Nguyen H. Tran, "Slicing the Edge: Resource Allocation for RAN Network Slicing,’’ *IEEE Wireless Communications Letters*, Vol.7, No.6, 970-973, May 2018. [Link Paper](https://ieeexplore.ieee.org/abstract/document/8370043) 
+2. **Minh N. H. Nguyen**, Nguyen H. Tran, Mohammad A. Islam, Chuan Pham, Shaolei Ren, and Choong Seon Hong, "Multi-Operator Backup Power Sharing in Wireless Base Stations", IEEE/IFIF Network Operations and Management Symposium (NOMS 2018), April. 23-27, 2018, Taipei, Taiwan. (Conference)
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
