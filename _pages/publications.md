@@ -14,5 +14,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2019
 =====
-1. Latif U Khan, Nguyen H Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, **Minh N. H. Nguyen**, Choong Seon Hong, "Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism" <i>arXiv:1911.05642</i>, 2019. [Link Paper](https://arxiv.org/abs/1911.05642)
+1. Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, **Minh N. H. Nguyen**, Choong Seon Hong, "Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism" <i>arXiv:1911.05642</i>, 2019. [Link Paper](https://arxiv.org/abs/1911.05642)
 
