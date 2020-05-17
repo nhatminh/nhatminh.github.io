@@ -10,7 +10,7 @@ redirect_from:
 
 This is Dr. Nguyen Account's home on the web.
 
-This is [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ).
+This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ).
 
 I currently working on the following research topics
 
