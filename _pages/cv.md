@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Personal Statement
-As a research scientist, I am passionate about developing sustainable solutions for open challenges in future complex systems. Throughout this journey, I keep challenging myself with an open-mind and exploring many new domains to broaden my limited understanding. 
+As a research scientist, I am passionate about developing sustainable solutions for open challenges in future complex systems. Throughout this journey, I keep challenging myself with an open mind and exploring many new domains to broaden my limited understanding. 
 
 Education
 ======
