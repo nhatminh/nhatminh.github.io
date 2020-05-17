@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 This is Dr. Nguyen Account's home on the web!
+
 I currently working on the following research topics
 
 ### 1. Distributed and Democratized Learning
