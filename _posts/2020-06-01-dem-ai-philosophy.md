@@ -7,8 +7,9 @@ tags:
   - category1
   - category2
 ---
-This is based on our [medium post] (https://medium.com/@shashir101/distributed-and-democratized-learning-philosophy-and-research-challenges-4ef156ed42ca).
-The full detail of the paper can be found on [ArXiv][(https://arxiv.org/abs/2003.09301).
+This is based on our [medium post](https://medium.com/@shashir101/distributed-and-democratized-learning-philosophy-and-research-challenges-4ef156ed42ca).
+
+The full detail of the paper can be found on [ArXiv](https://arxiv.org/abs/2003.09301).
 
 We develop a novel design philosophy called democratized learning (Dem-AI) whose goal is to build large-scale distributed learning systems that rely on the hierarchical self-organization of distributed learning agents that are well-connected, but limited in learning capabilities. Dem-AI learning system can evolve and regulate itself based on the underlying duality of two processes that we call specialized and generalized processes.
 
