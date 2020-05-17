@@ -1,7 +1,7 @@
 ---
 title: "Distributed and Democratized Learning: Philosophy and Research Challenges"
 collection: publications
-permalink: /publication/2020-03-18-dem-ai-philosophy
+permalink: /publication/2020-03-18-dem-ai-philosophy-number-3
 excerpt: 'This paper is about the philosophy design empowering the democracy in future large-scale distributed AI systems.'
 date: 2020-03-18
 venue: 'Submitted to IEEE Computational Intelligence Magazine'
