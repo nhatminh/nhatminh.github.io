@@ -22,7 +22,7 @@ I and my team are enthusiastic about the future of personalized services by the 
   * Currently we are working on the initial implementation of Dem-AI that is available on [Github](https://github.com/nhatminh/Dem-AI)
   
 ### 2. Federated Learning
-I collobrate in severals Federated Learning papers that was published on ([INFOCOM 2019](https://ieeexplore.ieee.org/abstract/document/8737464/)) and under review manuscripts.
+I collobrate in severals Federated Learning papers that was published on ([INFOCOM 2019](https://ieeexplore.ieee.org/abstract/document/8737464/)) and the other papers are under review.
 
 
 ### 3. Colocation BS and Edge Computing
