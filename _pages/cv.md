@@ -16,7 +16,12 @@ Education
 
 Work experience
 ======
-* 2015-now: Lecturer
+* 2015-now: Researcher
+  * Intelligence Networking Lab
+  * Research on Network Optimization, Edge Computing
+  * Distributed AI, Democratized Learning, and Federated Learning
+  
+* 2014-now: Lecturer
   * The University of Danang
   * Teaching in Information Technology
   
@@ -27,10 +32,11 @@ Work experience
 * 2012: Intership
   * Pohang University, South Korea.
   
-Research Topics
+Skills
 ======
-* Research on Network Optimization, Edge Computing
-* Distributed AI, Democratized Learning, and Federated Learning
+* Teamwork
+* Tutorial
+* Project management
 
 
 Selected Publications
