@@ -85,7 +85,7 @@ author:
   bio              : "I received PhD degree from Computer Science and Engineering at Kyung Hee University, South Korea. I am working as a leading researcher in the Intelligent Networking Laboratory and a lecturer in The University of Danang, Vietnam. My research interest includes network optimization, edge computing, distributed AI. I am also interested in the art of photography."
   location         : "Suwon, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tnoge7wAAAAJ"
   email            : "minhnhn@khu.ac.kr or nhatminhhcmut@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "None"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
