@@ -26,4 +26,4 @@ I collobrate in severals Federated Learning papers that was published on ([INFOC
 
 
 ### 3. Colocation BS and Edge Computing
-I worked on this resource sharing model for colocation services such as colocation BSs and edge computing during my PhD thesis. Accordingly, we published a proposal for the *fair sharing of backup power* on IEEE Transactions on Wireless Communications ([IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9050517)) and another *colocation edge computing*  on IEEE Transactions on Vehicular Technology ([IEEE TVT](https://ieeexplore.ieee.org/abstract/document/8247284)).
+I studied the resource sharing model for colocation services such as colocation BSs and edge computing during my PhD thesis. Accordingly, we published a proposal for the *Fair Sharing of Backup Power* on IEEE Transactions on Wireless Communications ([IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9050517)) and another *Colocation Edge Computing*  on IEEE Transactions on Vehicular Technology ([IEEE TVT](https://ieeexplore.ieee.org/abstract/document/8247284)).
