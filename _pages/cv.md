@@ -25,7 +25,7 @@ Work experience
   
 * 2014-now: **Lecturer**
   * The University of Danang
-  * Teaching in Information Technology
+  * Teaching Computer Networks and Information Technology subjects
   
 * 2014: **Software Engineer**
   * Sioux embedded systems, Danang
@@ -40,6 +40,7 @@ Skills
 * Tutorials
 * Project management
 * Problem solving
+* Teaching and instruction
 
 
 Selected Publications
