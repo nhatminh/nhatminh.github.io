@@ -17,7 +17,7 @@ I currently working on the following research topics
 
 ### 1. Distributed and Democratized Learning
 
-I and my team are enthusiastic about the future of personalized services by the distributed AI platform. The complex hierarchical of social structure inspires us to move towards a novel distributed learning paradigm, namely *democratized learning* (**Dem-AI**). We step by step to bring Dem-AI systems from the philosophy to the practical implementation. Throughout our studies, we profoundly analyze and better control the important generalization and specialization capability of the learning models in the Dem-AI systems.
+I and my team are enthusiastic about the future of personalized services using distributed AI platforms. The complex hierarchical of social structure inspires us to move towards a novel distributed learning paradigm, namely *democratized learning* (**Dem-AI**). We step by step to bring Dem-AI systems from the philosophy to the practical implementation. Throughout our studies, we profoundly analyze and better control the important generalization and specialization capability of the learning models in the Dem-AI systems.
   * Our first paper about Dem-AI philosophy can be found on [ArXiv](https://arxiv.org/abs/2003.09301)
   * Currently we are working on the initial implementation of Dem-AI that is available on [Github](https://github.com/nhatminh/Dem-AI)
   
