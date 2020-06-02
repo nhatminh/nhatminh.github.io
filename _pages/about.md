@@ -24,7 +24,7 @@ I and my team are enthusiastic about the future of personalized services using d
 ### 2. Federated Learning
 I collobrate in severals Federated Learning papers that was published on ([INFOCOM 2019](https://ieeexplore.ieee.org/abstract/document/8737464/)) and the other papers are under review.
   * My paper about Federeated Learning with the tittle "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks" was submitted to *IEEE Transactions on Mobile Computing* (**Major Revision**)
-  * The journal version of INFOCOM paper "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation" was submitted to *IEEE Transactions on Networking* (**Major Revision**). [ArXiv](https://arxiv.org/abs/1910.13067)
+  * The journal version of INFOCOM paper "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation" was submitted to *IEEE/ACM Transactions on Networking* (**Major Revision**). [ArXiv](https://arxiv.org/abs/1910.13067)
 
 
 ### 3. Colocation Base Stations and Edge Computing
