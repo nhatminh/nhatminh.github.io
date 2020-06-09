@@ -37,10 +37,9 @@ Work experience
 Skills
 ======
 * Teamwork
-* Tutorials
-* Project management
 * Problem solving
-* Teaching and instruction
+* Project management
+* Teaching, instruction, and tutorials
 * Creative and multidisciplinary thinking
 
 
