@@ -3,9 +3,9 @@ title: 'Distributed and Democratized Learning Philosophy'
 date: 2020-06-01
 permalink: /posts/2020/06/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Distributed Learning
+  - Democratized Learning
+  - Dem-AI Systems
 ---
 This is based on our [medium post](https://medium.com/@shashir101/distributed-and-democratized-learning-philosophy-and-research-challenges-4ef156ed42ca).
 
