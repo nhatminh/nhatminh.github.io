@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tnoge7wAAAAJ"
   email            : "minhnhn@khu.ac.kr or nhatminhhcmut@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Minh_Nguyen280"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  semanticscholar  : "https://www.semanticscholar.org/author/Minh-N.-H.-Nguyen/143781043"
 
 # Reading Files
 include:
