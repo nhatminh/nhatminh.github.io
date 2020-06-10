@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Dr. Minh N. H. Nguyen's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-### Personal Statement
+## Personal Statement
 As a research scientist, I am passionate about developing sustainable solutions for open challenges in future complex systems. Throughout this journey, I keep challenging myself with an open mind and exploring many new domains to broaden my limited understanding. 
 
 Education
