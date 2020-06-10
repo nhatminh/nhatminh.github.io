@@ -40,7 +40,7 @@ Skills
 * Problem solving
 * Project management
 * Teaching, instruction, and tutorials
-* Creative and multidisciplinary thinking
+* Creative and interdisciplinary thinking
 
 
 Selected Publications
