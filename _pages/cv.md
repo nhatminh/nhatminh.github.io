@@ -14,7 +14,7 @@ As a research scientist, I am passionate about developing sustainable solutions 
 Education
 ======
 * B.E. in Computer Science and Engineering, the Hochiminh City University of Technology, Vietnam, 2013
-* Ph.D in Computer Science and Engineering at Kyung Hee University, South Korea, 2020 (expected)
+* Ph.D in Computer Science and Engineering at Kyung Hee University, South Korea, 2020
 
 Work experience
 ======
