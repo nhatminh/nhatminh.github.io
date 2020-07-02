@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2015-now: **Researcher, PhD Student**
+* 2015-2020: **Combined Ms and PhD Student**
   * Intelligence Networking Lab
   * Research on Network Optimization, Edge Computing
   * Distributed AI, Democratized Learning, and Federated Learning
