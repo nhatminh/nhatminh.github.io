@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Minh N. H. Nguyen"
 title_separator          : "-"
 name                     : &name "Nguyen Huu Nhat Minh"
-description              : &description "Research scientist at Kyung Hee University"
+description              : &description "Postdoctoral Researcher at Kyung Hee University"
 url                      : https://nhatminh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nhatminh/nhatminh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nguyen Huu Nhat Minh"
   avatar           : "profile.jpg"
-  bio              : "I receive Ph.D. degree from Computer Science and Engineering at Kyung Hee University, South Korea this Aug. 2020. Currently, I am working as one of the leading researchers at the Intelligent Networking Laboratory, Kyung Hee University in Korea, and a lecturer at The University of Danang, Vietnam. My research interest includes network optimization, edge computing, distributed AI systems.  I am also interested in the art of photography."
+  bio              : "I receive Ph.D. degree from Computer Science and Engineering at Kyung Hee University, South Korea in Aug. 2020. Currently, I am working as a postdoctoral researcher at the Intelligent Networking Laboratory, Kyung Hee University in Korea, and a lecturer at The University of Danang, Vietnam. My research interest includes network optimization, edge computing, distributed AI systems.  I am also interested in the art of photography."
   location         : "Suwon, South Korea"
   employer         :
   pubmed           : 
