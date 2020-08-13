@@ -18,11 +18,15 @@ Education
 
 Work experience
 ======
+* 2020-now: Postdoctoral Researcher
+  * Intelligence Networking Lab, Kyung Hee University
+  * Distributed AI, Democratized Learning, Federated Learning
+  
 * 2015-2020: **Combined Ms and PhD Student**
   * Best thesis award
-  * Intelligence Networking Lab
+  * Intelligence Networking Lab, Kyung Hee University
   * Research on Network Optimization, Edge Computing
-  * Distributed AI, Democratized Learning, and Federated Learning
+  * Distributed AI, Federated Learning
   
 * 2014-now: **Lecturer**
   * The University of Danang
