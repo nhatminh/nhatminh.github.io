@@ -14,7 +14,7 @@ As a research scientist, I am passionate about developing sustainable solutions 
 Education
 ======
 * B.E. in Computer Science and Engineering, the Hochiminh City University of Technology, Vietnam, 2013
-* Ph.D in Computer Science and Engineering at Kyung Hee University, South Korea, 2020 (*Best thesis award*)
+* Ph.D in Computer Science and Engineering at Kyung Hee University, South Korea, 2020 (**Best thesis award**)
 
 Work experience
 ======
@@ -23,7 +23,6 @@ Work experience
   * Distributed AI, Democratized Learning, Federated Learning
   
 * 2015-2020: **Combined Ms and PhD Student**
-  * Best thesis award
   * Intelligence Networking Lab, Kyung Hee University
   * Research on Network Optimization, Edge Computing
   * Distributed AI, Federated Learning
