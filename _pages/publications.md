@@ -16,7 +16,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 =====
 1. **Minh N. H. Nguyen**, Nguyen H. Tran, Yan Kyaw Tun, Zhu Han, Choong Seon Hong, "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks" *Submitted to IEEE Transactions on Mobile Computing (Major Revision)* 
 2. Canh Dinh, Nguyen H. Tran, **Minh N. H. Nguyen**, Choong Seon Hong, Wei Bao, Albert Zomaya, Vincent Gramoli, "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation," *arXiv:1910.13067*, 2019. *Submitted to IEEE/ACM Transactions on Networking (Minor Revision)* [Link Paper](https://arxiv.org/abs/1910.13067)
-3. Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, **Minh N. H. Nguyen**, Choong Seon Hong, "Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism," *arXiv:1911.05642*, 2019. *Submitted to IEEE Communication Magazine (Minor Revision)* [Link Paper](https://arxiv.org/abs/1911.05642)
+3. Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, **Minh N. H. Nguyen**, Choong Seon Hong, "Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism," *arXiv:1911.05642*, 2019. *Submitted to IEEE Communication Magazine (Accepted)* [Link Paper](https://arxiv.org/abs/1911.05642)
 4. Nguyen H. Tran, Wei Bao, Albert Zomaya , **Minh N. H. Nguyen** and Choong Seon Hong, "Federated Learning over Wireless Networks: Optimization Model Design and Analysis," IEEE International Conference on Computer Communications (INFOCOM 2019), April 29 - May 2, 2019, Paris, France. (Conference)
 
 2018
