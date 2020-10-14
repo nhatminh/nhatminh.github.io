@@ -51,7 +51,7 @@ Selected Publications
 ======
 ### 2020
 
-1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Kyi Thar, Nguyen H. Tran, Mingzhe Chen, Walid Saad, Choong Seon Hong, "Distributed and Democratized Learning: Philosophy and Research Challenges," *Submitted to IEEE Computational Intelligence Magazine (Major Revision)*. [Link Paper](https://arxiv.org/abs/2003.09301)
+1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Kyi Thar, Nguyen H. Tran, Mingzhe Chen, Walid Saad, Choong Seon Hong, "Distributed and Democratized Learning: Philosophy and Research Challenges," *Submitted to IEEE Computational Intelligence Magazine (Minor Revision)*. [Link Paper](https://arxiv.org/abs/2003.09301)
 2. **Minh N. H. Nguyen**, Chit Wutyee Zaw, Kitae Kim, Nguyen H. Tran, Choong Seon Hong, "Let's Share the Resource When We’re Co-Located: Colocation Edge Computing," *IEEE Transactions on Vehicular Technology*, Vol.69, Issue 5, pp.5618-5633, May. 2020. (DOI: 10.1109/TVT.2020.2982679). [Link Paper](https://ieeexplore.ieee.org/abstract/document/9050517)
 
 
