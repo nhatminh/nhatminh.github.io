@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 =====
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Kyi Thar, Nguyen H. Tran, Mingzhe Chen, Walid Saad, Choong Seon Hong, "Distributed and Democratized Learning: Philosophy and Research Challenges," *Submitted to IEEE Computational Intelligence Magazine (Minor Revision)*. [Link Paper](https://arxiv.org/abs/2003.09301)
 2. **Minh N. H. Nguyen**, Chit Wutyee Zaw, Kitae Kim, Nguyen H. Tran, Choong Seon Hong, "Let's Share the Resource When We’re Co-Located: Colocation Edge Computing," *IEEE Transactions on Vehicular Technology*, Vol.69, Issue 5, pp.5618-5633, May. 2020. (DOI: 10.1109/TVT.2020.2982679). [Link Paper](https://ieeexplore.ieee.org/abstract/document/9050517)
-3. Le, Tra Huong Thi, Nguyen H. Tran, Yan Kyaw Tun, *Minh NH Nguyen*, Shashi Raj Pandey, Zhu Han, and Choong Seon Hong. "An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach." arXiv preprint arXiv:2009.10269 (2020). [Link Paper](https://arxiv.org/abs/2009.10269)
+3. Le, Tra Huong Thi, Nguyen H. Tran, Yan Kyaw Tun, **Minh N. H. Nguyen**, Shashi Raj Pandey, Zhu Han, and Choong Seon Hong. "An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach." arXiv preprint arXiv:2009.10269 (2020). [Link Paper](https://arxiv.org/abs/2009.10269)
 
 2019
 =====
