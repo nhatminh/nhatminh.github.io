@@ -9,15 +9,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2021
 =====
-1. Le, Tra Huong Thi, Nguyen H. Tran, Yan Kyaw Tun, **Minh N. H. Nguyen**, Shashi Raj Pandey, Zhu Han, and Choong Seon Hong. "An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach," *arXiv preprint arXiv:2009.10269*. [Link Paper](https://arxiv.org/abs/2009.10269)
-2. **Minh N. H. Nguyen**, Nguyen H. Tran, Yan Kyaw Tun, Zhu Han, Choong Seon Hong, "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks," *Submitted to IEEE Transactions on Mobile Computing (Major Revision)*. [Link Paper](https://arxiv.org/abs/2011.12469) 
-3. Shashi Raj Pandey, **Minh N. H. Nguyen**, Tri Nguyen Dang, Kyi Thar, Nguyen H. Tran, Zhu Han, Choong Seon Hong, "Edge-assisted Democratized Learning Towards Federated Analytics," *arXiv preprint arXiv:2012.00425*. [Link Paper](https://arxiv.org/abs/2012.00425)
+1. **Minh N. H. Nguyen**, Nguyen H. Tran, Yan Kyaw Tun, Zhu Han, Choong Seon Hong, "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks," *Submitted to IEEE Transactions on Mobile Computing (Major Revision)*. [Link Paper](https://arxiv.org/abs/2011.12469) 
+2. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *arXiv preprint arXiv:2007.03278 (2020)*. [Link Paper](https://arxiv.org/abs/2007.03278) 
+3. Le, Tra Huong Thi, Nguyen H. Tran, Yan Kyaw Tun, **Minh N. H. Nguyen**, Shashi Raj Pandey, Zhu Han, and Choong Seon Hong. "An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach." *Accepted in IEEE Transactions on Wireless Communications.* [Link Paper](https://arxiv.org/abs/2009.10269)
+4. Shashi Raj Pandey, **Minh N. H. Nguyen**, Tri Nguyen Dang, Kyi Thar, Nguyen H. Tran, Zhu Han, Choong Seon Hong, "Edge-assisted Democratized Learning Towards Federated Analytics," *arXiv preprint arXiv:2012.00425*. [Link Paper](https://arxiv.org/abs/2012.00425)
 
 2020
 =====
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Kyi Thar, Nguyen H. Tran, Mingzhe Chen, Walid Saad, Choong Seon Hong, "Distributed and Democratized Learning: Philosophy and Research Challenges," *IEEE Computational Intelligence Magazine 16.1 (2021): 49-62*. (DOI: 10.1109/MCI.2020.3039068) [Link Paper](https://arxiv.org/abs/2003.09301)
 2. **Minh N. H. Nguyen**, Chit Wutyee Zaw, Kitae Kim, Nguyen H. Tran, Choong Seon Hong, "Let's Share the Resource When We’re Co-Located: Colocation Edge Computing," *IEEE Transactions on Vehicular Technology*, Vol.69, Issue 5, pp.5618-5633, May 2020. (DOI: 10.1109/TVT.2020.2982679). [Link Paper](https://ieeexplore.ieee.org/abstract/document/9050517)
-3. Canh Dinh, Nguyen H. Tran, **Minh N. H. Nguyen**, Choong Seon Hong, Wei Bao, Albert Zomaya, Vincent Gramoli, "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation," *Accepted in IEEE/ACM Transactions on Networking*. [Link Paper](https://arxiv.org/abs/1910.13067)
+3. Canh Dinh, Nguyen H. Tran, **Minh N. H. Nguyen**, Choong Seon Hong, Wei Bao, Albert Zomaya, Vincent Gramoli, "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation," *IEEE/ACM Transactionson Networking*, vol. 29, no. 1, pp. 398–409, Feb. 2021.*. [Link Paper](https://arxiv.org/abs/1910.13067)
 4. Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, **Minh N. H. Nguyen**, Choong Seon Hong, "Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism," *IEEE Communications Magazine*, Vol.58, Issue 10, pp. 88-93, Oct. 2020.* [Link Paper](https://arxiv.org/abs/1911.05642)
 
 
