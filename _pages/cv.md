@@ -28,7 +28,7 @@ Work experience
   * Distributed AI, Federated Learning
   
 * 2014-now: **Lecturer**
-  * The University of Danang
+  * The University of Danang, 
   * Teaching Computer Networks and Information Technology subjects
   
 * 2014: **Software Engineer**
@@ -50,10 +50,10 @@ Skills
 Selected Publications
 ======
 ### 2021
-1. **Minh N. H. Nguyen**, Nguyen H. Tran, Yan Kyaw Tun, Zhu Han, Choong Seon Hong, "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks," *Submitted to IEEE Transactions on Mobile Computing (Major Revision)*. [Link Paper](https://arxiv.org/abs/2011.12469) 
+1. **Minh N. H. Nguyen**, Nguyen H. Tran, Yan Kyaw Tun, Zhu Han, Choong Seon Hong, "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks," *Accepted in IEEE Transactions on Mobile Computing (Major Revision)*. [Link Paper](https://arxiv.org/abs/2011.12469) 
 2. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *arXiv preprint arXiv:2007.03278 (2020)*. [Link Paper](https://arxiv.org/abs/2007.03278) 
 3. Le, Tra Huong Thi, Nguyen H. Tran, Yan Kyaw Tun, **Minh N. H. Nguyen**, Shashi Raj Pandey, Zhu Han, and Choong Seon Hong. "An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach." *Accepted in IEEE Transactions on Wireless Communications.* [Link Paper](https://arxiv.org/abs/2009.10269)
-4. Shashi Raj Pandey, **Minh N. H. Nguyen**, Tri Nguyen Dang, Kyi Thar, Nguyen H. Tran, Zhu Han, Choong Seon Hong, "Edge-assisted Democratized Learning Towards Federated Analytics," *arXiv preprint arXiv:2012.00425*. [Link Paper](https://arxiv.org/abs/2012.00425)
+4. Shashi Raj Pandey, **Minh N. H. Nguyen**, Tri Nguyen Dang, Kyi Thar, Nguyen H. Tran, Zhu Han, Choong Seon Hong, "Edge-assisted Democratized Learning Towards Federated Analytics," *Accepted IEEE Journal of Things*. [Link Paper](https://arxiv.org/abs/2012.00425)
 
 ### 2020
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Kyi Thar, Nguyen H. Tran, Mingzhe Chen, Walid Saad, Choong Seon Hong, "Distributed and Democratized Learning: Philosophy and Research Challenges," *IEEE Computational Intelligence Magazine 16.1 (2021): 49-62*. (DOI: 10.1109/MCI.2020.3039068) [Link Paper](https://arxiv.org/abs/2003.09301)
