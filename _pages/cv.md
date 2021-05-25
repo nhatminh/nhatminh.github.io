@@ -20,7 +20,7 @@ Work experience
 ======
 * 2020-now: Postdoctoral Researcher
   * Intelligence Networking Lab, Kyung Hee University
-  * Distributed AI, Democratized Learning, Federated Learning
+  * Distributed AIs, Democratized Learning, Federated Learning
   
 * 2015-2020: **Combined Ms and PhD Student**
   * Intelligence Networking Lab, Kyung Hee University
@@ -28,11 +28,11 @@ Work experience
   * Distributed AI, Federated Learning
   
 * 2014-now: **Lecturer**
-  * The University of Danang, 
+  * The University of Danang - Vietnam-Korea University of Information and Communication Technology, Vietnam
   * Teaching Computer Networks and Information Technology subjects
   
 * 2014: **Software Engineer**
-  * Sioux embedded systems, Danang
+  * Sioux embedded systems, Danang, Vietnam
   * Developing applications for Embedded systems
 
 * 2012: **Intership student**
