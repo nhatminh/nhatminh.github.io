@@ -16,9 +16,13 @@ Education
 * B.E. in Computer Science and Engineering, the Hochiminh City University of Technology, Vietnam, 2013
 * Ph.D in Computer Science and Engineering at Kyung Hee University, South Korea, 2020 (**Best thesis award**)
 
-Work experience
+Working Experience
 ======
-* 2020-now: Postdoctoral Researcher
+* 2014-now: **Lecturer**
+  * The University of Danang - Vietnam-Korea University of Information and Communication Technology, Vietnam
+  * Teaching Computer Networks and Information Technology subjects
+  
+* 2020-Feb.2022: **Postdoctoral Researcher**
   * Intelligence Networking Lab, Kyung Hee University
   * Distributed AIs, Democratized Learning, Federated Learning
   
@@ -26,10 +30,6 @@ Work experience
   * Intelligence Networking Lab, Kyung Hee University
   * Research on Network Optimization, Edge Computing
   * Distributed AI, Federated Learning
-  
-* 2014-now: **Lecturer**
-  * The University of Danang - Vietnam-Korea University of Information and Communication Technology, Vietnam
-  * Teaching Computer Networks and Information Technology subjects
   
 * 2014: **Software Engineer**
   * Sioux embedded systems, Danang, Vietnam
