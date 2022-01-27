@@ -22,11 +22,13 @@ I and my team are enthusiastic about the future of personalized services using d
   * Our first paper about Dem-AI philosophy was accepted in *IEEE Computational Intelligence Magazine*. [ArXiv](https://arxiv.org/abs/2003.09301)
   * Currently we are working on the initial implementation of Dem-AI that is available on [Github](https://github.com/nhatminh/Dem-AI) and submitted to a conference.
   * Dem-AI works were presented in an invited talk at The International Workshop on Distributed Cloud Computing (DCC) co-located with ACM SIGMETRICS 2020. [Link](http://dcc2020.ec.tuwien.ac.at/#meet-team)
+  * The second paper with the title "Edge-assisted Democratized Learning Towards Federated Analytics" was published on *IEEE Internet of Things Journal* in 2021.
   
 ### 2. Federated Learning
 I collaborate in several Federated Learning papers that were published on ([INFOCOM 2019](https://ieeexplore.ieee.org/abstract/document/8737464/)) and the other papers are under review.
   * My paper about Federated Learning with the title "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks" was published to *IEEE Transactions on Mobile Computing*
-  * The journal version of INFOCOM paper "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation" was published in *IEEE/ACM Transactions on Networking*. [ArXiv](https://arxiv.org/abs/1910.13067)
+  * The ACM/IEEE Transactions on Networking journal version of INFOCOM paper "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation" was published in *IEEE/ACM Transactions on Networking*. [ArXiv](https://arxiv.org/abs/1910.13067)
+  * I am also the co-author of the published Federated Learning papers in *IEEE Transactions on Wireless Communications* and *IEEE Communications Magazine*.
 
 
 ### 3. Colocation Base Stations and Edge Computing
