@@ -12,7 +12,7 @@ Currently, I am working as a postdoctoral researcher at the Intelligent Networki
 This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ) and [DBLP link](https://dblp.org/pid/177/2939)
 
 ### Personal Statement
-As a research scientist, I am passionate about developing sustainable solutions for open challenges in future complex systems. Throughout this journey, I keep challenging myself with an open mind and exploring many new domains to broaden my limited understanding.
+As a research scientist, I am passionate about developing sustainable solutions for open challenges in future multi-domain complex systems. Throughout this journey, I keep challenging myself with an open mind and exploring many new domains to broaden my limited understanding.
 
 I am currently working on the following research topics:
 
