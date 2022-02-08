@@ -39,6 +39,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2016-2017
 =====
-1. Nguyen H. Tran, Chuan Pham, **Minh N. H. Nguyen**, Shaolei Ren, and Choong Seon Hong. "Incentivizing energy reduction for emergency demand response in multi-tenant mixed-use buildings." IEEE Transactions on Smart Grid 9, no. 4 (2016): 3701-3715. (DOI: 10.1109/TSG.2016.2639033) [IEEE](https://ieeexplore.ieee.org/abstract/document/7782390) 
-2. **Minh N. H. Nguyen**, et al. "Outliers detection and correction for cooperative distributed online learning in Wireless sensor network." 2017 International Conference on Information Networking (ICOIN). IEEE, 2017.  ([Conference](https://ieeexplore.ieee.org/abstract/document/7899457))
-3. **Minh N. H. Nguyen**, et al. "Online learning-based clustering approach for news recommendation systems." 2016 18TH Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2016. ([Conference](https://ieeexplore.ieee.org/abstract/document/7737269))
+1. **Minh N. H. Nguyen**, et al. "Outliers detection and correction for cooperative distributed online learning in Wireless sensor network." 2017 International Conference on Information Networking (ICOIN). IEEE, 2017.  ([Conference](https://ieeexplore.ieee.org/abstract/document/7899457))
+2. **Minh N. H. Nguyen**, et al. "Online learning-based clustering approach for news recommendation systems." 2016 18TH Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2016. ([Conference](https://ieeexplore.ieee.org/abstract/document/7737269))
