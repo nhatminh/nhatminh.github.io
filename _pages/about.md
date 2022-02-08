@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am working as a lecturer at The University of Danang, Vietnam and a collaborator with the Intelligent Networking Laboratory, Kyung Hee University, Korea.
+Currently, I am working as a lecturer at  Vietnam - Korea University of Information and Communication Technology - The University of Danang, Vietnam and a collaborator with the Intelligent Networking Laboratory, Kyung Hee University, Korea.
+
 This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ) and [DBLP link](https://dblp.org/pid/177/2939)
 
 ### Personal Statement
