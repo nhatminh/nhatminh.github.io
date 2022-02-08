@@ -19,7 +19,7 @@ Education
 Working Experience
 ======
 * 2014-now: **Lecturer**
-  * The University of Danang - Vietnam-Korea University of Information and Communication Technology, Vietnam
+  * Vietnam-Korea University of Information and Communication Technology - The University of Danang, Vietnam
   * Teaching Computer Networks and Information Technology subjects
   
 * 2020-Feb.2022: **Postdoctoral Researcher**
