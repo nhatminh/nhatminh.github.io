@@ -60,21 +60,23 @@ Selected Publications
 
 ### 2020
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Kyi Thar, Nguyen H. Tran, Mingzhe Chen, Walid Saad, Choong Seon Hong, "Distributed and Democratized Learning: Philosophy and Research Challenges," *IEEE Computational Intelligence Magazine 16.1 (2021): 49-62*. (DOI: 10.1109/MCI.2020.3039068) [Arxiv](https://arxiv.org/abs/2003.09301), [IEEE](https://ieeexplore.ieee.org/abstract/document/9321418)  
-2. **Minh N. H. Nguyen**, Chit Wutyee Zaw, Kitae Kim, Nguyen H. Tran, Choong Seon Hong, "Let's Share the Resource When We’re Co-Located: Colocation Edge Computing," *IEEE Transactions on Vehicular Technology*, Vol.69, Issue 5, pp.5618-5633, May 2020. (DOI: 10.1109/TVT.2020.2982679). [Arxiv](https://ieeexplore.ieee.org/abstract/document/9050517)
+2. **Minh N. H. Nguyen**, Chit Wutyee Zaw, Kitae Kim, Nguyen H. Tran, Choong Seon Hong, "Let's Share the Resource When We’re Co-Located: Colocation Edge Computing," *IEEE Transactions on Vehicular Technology*, Vol.69, Issue 5, pp.5618-5633, May 2020. (DOI: 10.1109/TVT.2020.2982679). [IEEE](https://ieeexplore.ieee.org/abstract/document/9050517)
 3. Canh Dinh, Nguyen H. Tran, **Minh N. H. Nguyen**, Choong Seon Hong, Wei Bao, Albert Zomaya, Vincent Gramoli, "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation," *IEEE/ACM Transactionson Networking*, vol. 29, no. 1, pp. 398–409, Feb. 2021, DOI: 10.1109/TNET.2020.3035770. [Arxiv](https://arxiv.org/abs/1910.13067), [IEEE](https://ieeexplore.ieee.org/abstract/document/9261995)  
 4. Latif U. Khan, Nguyen H. Tran, Shashi Raj Pandey, Walid Saad, Zhu Han, **Minh N. H. Nguyen**, Choong Seon Hong, "Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism," *IEEE Communications Magazine*, Vol.58, Issue 10, pp. 88-93, Oct. 2020, DOI: 10.1109/MCOM.001.1900649. [Arxiv](https://arxiv.org/abs/1911.05642), [IEEE](https://ieeexplore.ieee.org/abstract/document/9247530)  
 
 
 ### 2019
-1. **Minh N. H. Nguyen** et al. "Joint User Association and Server Scaling in Multi-access Edge Computing," 20th Asia-Pacific Network Operations and Management Symposium (APNOMS), Japan, 2019. (Conference)
-2. Nguyen H. Tran, Wei Bao, Albert Zomaya , **Minh N. H. Nguyen** and Choong Seon Hong, "Federated Learning over Wireless Networks: Optimization Model Design and Analysis," IEEE International Conference on Computer Communications (INFOCOM 2019), April 29 - May 2, 2019, Paris, France. (Conference)
+1. **Minh N. H. Nguyen** et al. "Joint User Association and Server Scaling in Multi-access Edge Computing," 20th Asia-Pacific Network Operations and Management Symposium (APNOMS), Japan, 2019. ([Conference](https://ieeexplore.ieee.org/abstract/document/8893056/))
+2. Nguyen H. Tran, Wei Bao, Albert Zomaya , **Minh N. H. Nguyen** and Choong Seon Hong, "Federated Learning over Wireless Networks: Optimization Model Design and Analysis," IEEE International Conference on Computer Communications (INFOCOM 2019), April 29 - May 2, 2019, Paris, France. ([Conference](https://ieeexplore.ieee.org/abstract/document/8737464))
 
 ### 2018
 1. **Minh N. H. Nguyen**, Nguyen H. Tran, Mohammad A. Islamy, Chuan Pham, Shaolei Ren, Choong Seon Hong, "Fair Sharing of Backup Power Supply in Multi-Operator Wireless Cellular Towers," *IEEE Transactions on Wireless Communications*, Vol.17, No.3, pp. 2080-2093, March 2018. (DOI: 10.1109/TWC.2017.2789195). [IEEE](https://ieeexplore.ieee.org/document/8247284/)
 2. Nguyen H. Tran, Chuan Pham, **Minh N.H. Nguyen**, Shaolei Ren, Choong Seon Hong, "Incentivizing Energy Reduction for Emergency Demand Response in Multi-Tenant Mixed-Use Buildings," *IEEE Transactions on Smart Grid*, Vol.9, No.4, pp.3701- 3715, July 2018, DOI: 10.1109/TSG.2016.2639033. [IEEE](https://ieeexplore.ieee.org/document/8247284/) 
 3. Phuong Luu Vo, **Minh N. H. Nguyen**, Tuan Anh Le, Nguyen H. Tran, "Slicing the Edge: Resource Allocation for RAN Network Slicing," *IEEE Wireless Communications Letters*, Vol.7, No.6, 970-973, May 2018, DOI: 10.1109/LWC.2018.2842189. [IEEE](https://ieeexplore.ieee.org/abstract/document/8370043) 
-4. **Minh N. H. Nguyen**, Nguyen H. Tran, Mohammad A. Islam, Chuan Pham, Shaolei Ren, and Choong Seon Hong, "Multi-Operator Backup Power Sharing in Wireless Base Stations", IEEE/IFIF Network Operations and Management Symposium (NOMS 2018), April. 23-27, 2018, Taipei, Taiwan. (Conference)
+4. **Minh N. H. Nguyen**, Nguyen H. Tran, Mohammad A. Islam, Chuan Pham, Shaolei Ren, and Choong Seon Hong, "Multi-Operator Backup Power Sharing in Wireless Base Stations", IEEE/IFIF Network Operations and Management Symposium (NOMS 2018), April. 23-27, 2018, Taipei, Taiwan. ([Conference](https://ieeexplore.ieee.org/abstract/document/8406244))
 
-
-
+### 2016-2017
+1. Nguyen H. Tran, Chuan Pham, **Minh N. H. Nguyen**, Shaolei Ren, and Choong Seon Hong. "Incentivizing energy reduction for emergency demand response in multi-tenant mixed-use buildings." IEEE Transactions on Smart Grid 9, no. 4 (2016): 3701-3715. (DOI: 10.1109/TSG.2016.2639033) [IEEE](https://ieeexplore.ieee.org/abstract/document/7782390) 
+2. **Minh N. H. Nguyen**, et al. "Outliers detection and correction for cooperative distributed online learning in Wireless sensor network." 2017 International Conference on Information Networking (ICOIN). IEEE, 2017.  ([Conference](https://ieeexplore.ieee.org/abstract/document/7899457))
+3. **Minh N. H. Nguyen**, et al. "Online learning-based clustering approach for news recommendation systems." 2016 18TH Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2016. ([Conference](https://ieeexplore.ieee.org/abstract/document/7737269))
   
