@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am working as a lecturer at  Vietnam - Korea University of Information and Communication Technology - The University of Danang, Vietnam 
+Currently, I am working as 
+- A lecturer at  Vietnam - Korea University of Information and Communication Technology - The University of Danang, Vietnam 
 - A collaborator (Former Postdoc) with the Networking Intelligence Laboratory, Kyung Hee University, Korea.
 
 Email: nhnminh@vku.udn.vn, nhatminhhcmut@gmail.com, minhnhn@khu.ac.kr
