@@ -23,11 +23,11 @@ Working Experience
   * Teaching Computer Networks and Information Technology subjects
   
 * 2020-Feb.2022: **Postdoctoral Researcher**
-  * Intelligence Networking Lab, Kyung Hee University
+  * Networking Intelligence Lab, Kyung Hee University
   * Distributed AIs, Democratized Learning, Federated Learning
   
 * 2015-2020: **Combined Ms and PhD Student**
-  * Intelligence Networking Lab, Kyung Hee University
+  * Networking Intelligence Lab, Kyung Hee University
   * Research on Network Optimization, Edge Computing
   * Distributed AI, Federated Learning
   
