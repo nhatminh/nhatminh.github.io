@@ -11,6 +11,8 @@ redirect_from:
 Currently, I am working as a lecturer at  Vietnam - Korea University of Information and Communication Technology - The University of Danang, Vietnam 
 and a collaborator (Former Postdoc) with the Networking Intelligence Laboratory, Kyung Hee University, Korea.
 
+Email: nhnminh@vku.udn.vn, nhatminhhcmut@gmail.com, minhnhn@khu.ac.kr
+
 This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ) and [DBLP link](https://dblp.org/pid/177/2939)
 
 ### Personal Statement
