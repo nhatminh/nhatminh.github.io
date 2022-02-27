@@ -19,7 +19,7 @@ Education
 Working Experience
 ======
 * 2014-now: **Lecturer**
-  * Computer and Electronic Engineering Department
+  * Faculty of Computer Engineering and Electronics
   * Vietnam-Korea University of Information and Communication Technology - The University of Danang, Vietnam
   * Teaching Machine Learning and Information Technology subjects
   * Research on Distributed Learning 
