@@ -19,8 +19,10 @@ Education
 Working Experience
 ======
 * 2014-now: **Lecturer**
+  * Computer and Electronic Engineering Department
   * Vietnam-Korea University of Information and Communication Technology - The University of Danang, Vietnam
-  * Teaching Computer Networks and Information Technology subjects
+  * Teaching Machine Learning and Information Technology subjects
+  * Research on Distributed Learning 
   
 * 2020-Feb.2022: **Postdoctoral Researcher**
   * Networking Intelligence Lab, Kyung Hee University, Korea
