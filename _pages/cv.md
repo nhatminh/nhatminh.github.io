@@ -52,7 +52,7 @@ Skills
 Selected Publications
 ======
 ### 2022
-1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," * Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278) 
+1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278) 
 
 ### 2021
 1. **Minh N. H. Nguyen**, Nguyen H. Tran, Yan Kyaw Tun, Zhu Han, Choong Seon Hong, "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks," *Accepted in IEEE Transactions on Mobile Computing*, DOI: 10.1109/TMC.2021.3085979. [Arxiv](https://arxiv.org/abs/2011.12469), [IEEE](https://ieeexplore.ieee.org/abstract/document/9445589) 
