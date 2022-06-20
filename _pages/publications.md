@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2022
 =====
-1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278) 
+1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278), [IEEE](https://ieeexplore.ieee.org/document/9772065)  
 
 2021
 =====
