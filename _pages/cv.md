@@ -38,7 +38,7 @@ Working Experience
   * Developing applications for Embedded systems
 
 * 2012: **Internship student**
-  * Pohang University, South Korea.
+  * PosTech University, South Korea.
   
 Skills
 ======
