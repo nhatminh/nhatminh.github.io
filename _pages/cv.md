@@ -37,7 +37,7 @@ Working Experience
   * Sioux embedded systems, Danang, Vietnam
   * Developing applications for Embedded systems
 
-* 2012: **Intership student**
+* 2012: **Internship student**
   * Pohang University, South Korea.
   
 Skills
