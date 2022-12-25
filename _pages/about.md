@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Currently, I am working as 
-- Leading Research team of Intelligent Systems in Digital Science and Technology Insititue (eSTI), VKU, Vietnam
+- Leading Research team of Intelligent Systems at Digital Science and Technology Insititue (eSTI), VKU, Vietnam
 - A lecturer at  Vietnam - Korea University of Information and Communication Technology (VKU) - The University of Danang, Vietnam 
 - A collaborator (Former Postdoc) with the Networking Intelligence Laboratory, Kyung Hee University, Korea.
 
