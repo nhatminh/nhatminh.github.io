@@ -18,7 +18,7 @@ Education
 
 Working Experience
 ======
-* 2022-now: Leading Researc team of Intelligent Systems in Digital Science and Technology Insititue (eSTI), VKU
+* 2022-now: Leading Research team of Intelligent Systems in Digital Science and Technology Insititue (eSTI), VKU
 * 2014-now: **Lecturer**
   * Faculty of Computer Engineering and Electronics
   * Vietnam-Korea University of Information and Communication Technology - The University of Danang, Vietnam
