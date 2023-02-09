@@ -20,6 +20,7 @@ Working Experience
 ======
 * 2022-now: Director of Research Program in Digital Science and Technology Insititue (eSTI), VKU 
   * Leading Research group of Intelligent Systems in (eSTI), VKU
+  * Working towards recent hot topics on AI Chatbot, Generative AI, Personalized AIs, NLP pipelines and multimodal representation
   
 * 2014-now: **Lecturer**
   * Faculty of Computer Engineering and Electronics
