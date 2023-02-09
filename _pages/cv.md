@@ -18,7 +18,8 @@ Education
 
 Working Experience
 ======
-* 2022-now: Leading Research team of Intelligent Systems in Digital Science and Technology Insititue (eSTI), VKU
+* 2022-now: Director of Research Program in Digital Science and Technology Insititue (eSTI), VKU 
+  * Leading Research team of Intelligent Systems in Digital Science and Technology Insititue (eSTI), VKU
 * 2014-now: **Lecturer**
   * Faculty of Computer Engineering and Electronics
   * Vietnam-Korea University of Information and Communication Technology - The University of Danang, Vietnam
@@ -54,7 +55,7 @@ Selected Publications
 ======
 ### 2023
 1. "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Major revision in Neural Networks, 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
-2. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted
+2. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
 
 ### 2022
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278), [IEEE](https://ieeexplore.ieee.org/document/9772065)
