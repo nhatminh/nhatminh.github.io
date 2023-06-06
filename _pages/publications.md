@@ -9,9 +9,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2023
 =====
-1. "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Accepted to Elseiver Neural Networks, 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
+1. "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Accepted to Elsevier Neural Networks, 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
 2. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
-3. "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning", *Submitted to Elseiver Neural Networks, 2023*
+3. "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning", *Submitted to Elsevier Neural Networks, 2023*
 
 2022
 =====
