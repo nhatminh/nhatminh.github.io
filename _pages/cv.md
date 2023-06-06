@@ -58,7 +58,7 @@ Selected Publications
 ### 2023
 1. "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Accepted in Elsevier Neural Networks, 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
 2. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
-3. "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning", *Submitted to Neural Networks, 2023*
+3. "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning", *Submitted to Elsevier Neural Networks, 2023*
 
 ### 2022
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278), [IEEE](https://ieeexplore.ieee.org/document/9772065)
