@@ -12,6 +12,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 1. Ye Lin Tun, **Minh N. H. Nguyen**, Chu Myaet Thwal, Jinwoo Choi, and Choong Seon Hong, "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Accepted in Elsevier Neural Networks, 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
 2. Thwal Chu Myaet, **Minh N. H. Nguyen**, Ye Lin Tun, Seong Tae Kim, My T. Thai, and Choong Seon Hong. "OnDev-LCT: On-Device Lightweight Convolutional Transformers Towards Federated Learning." "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning", *Submitted to Elsevier Neural Networks, 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437065)
 3. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
+4. Nguyen Huu Nhat Minh, Nguyen Ket Doan, Pham Quoc Huy, Kieu Xuan Loc, Hoang Nguyen Vu, Huy Nguyen, Huynh Cong Phap, "Information Technology Skills Extractor for Job Descriptions in vku-ITSkills Dataset using Natural Language Processing", in Proceeding of CITA 2023 International Track, July, 2023.
 
 2022
 =====
