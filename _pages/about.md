@@ -14,8 +14,7 @@ Currently, I am working as
 - A lecturer at  Vietnam - Korea University of Information and Communication Technology (VKU) - The University of Danang, Vietnam 
 - A collaborator with multiple research groups:
   - Networking Intelligence Lab, Kyung Hee University, Korea (Multimodal Federated Learning) 
-  - SPACHES lab at University of South Florida, USA (Medical Imaging Research
-  - UCLab Kyung Hee University, Korea (Intelligent Medical System research)
+  - SPACHES lab at University of South Florida, USA (Medical Imaging Research)
 
 
 
