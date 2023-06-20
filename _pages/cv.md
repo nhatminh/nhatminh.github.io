@@ -60,6 +60,8 @@ Selected Publications
 2. Thwal Chu Myaet, **Minh N. H. Nguyen**, Ye Lin Tun, Seong Tae Kim, My T. Thai, and Choong Seon Hong. "OnDev-LCT: On-Device Lightweight Convolutional Transformers Towards Federated Learning." "OnDev-LCT: On-Device Lightweight Convolutional Transformers towards Federated Learning", *Submitted to Elsevier Neural Networks, 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437065)
 3. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
 
+4. Nguyen Huu Nhat Minh, Nguyen Ket Doan, Pham Quoc Huy, Kieu Xuan Loc, Hoang Nguyen Vu, Huy Nguyen, Huynh Cong Phap, "Information Technology Skills Extractor for Job Descriptions in vku-ITSkills Dataset using Natural Language Processing", in Proceeding of CITA 2023 International Track, July, 2023.
+
 
 ### 2022
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278), [IEEE](https://ieeexplore.ieee.org/document/9772065)
