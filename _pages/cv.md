@@ -65,7 +65,7 @@ Selected Publications
 
 ### 2022
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *Accepted in IEEE Transactions on Neural Networks and Learning Systems, 2022*. [Arxiv](https://arxiv.org/abs/2007.03278), [IEEE](https://ieeexplore.ieee.org/document/9772065)
-2. Binh Nguyen Thanh, **Minh Nguyen N. H.**, Hanh Le Thi My, and Binh Nguyen Thanh. 2022. Ml-Codesmell: A code smell prediction dataset for machine learning approaches. In Proceedings of the 11th International Symposium on Information and Communication Technology (SoICT '22), New York, NY, USA, 368–374. https://doi.org/10.1145/3568562.3568643
+2. Binh Nguyen Thanh, **Minh Nguyen N. H.**, Hanh Le Thi My, and Binh Nguyen Thanh. 2022. Ml-Codesmell: A code smell prediction dataset for machine learning approaches. In Proceedings of the 11th International Symposium on Information and Communication Technology (SoICT '22), Hanoi, Vietnam, 368–374. https://doi.org/10.1145/3568562.3568643
 
 ### 2021
 1. **Minh N. H. Nguyen**, Nguyen H. Tran, Yan Kyaw Tun, Zhu Han, Choong Seon Hong, "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks," *in IEEE Transactions on Mobile Computing, vol. 22, no. 1, pp. 541-555, 1 Jan. 2023*, DOI: 10.1109/TMC.2021.3085979. [Arxiv](https://arxiv.org/abs/2011.12469), [IEEE](https://ieeexplore.ieee.org/abstract/document/9445589) 
