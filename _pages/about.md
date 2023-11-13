@@ -27,7 +27,7 @@ As a research scientist, I am passionate about developing sustainable solutions 
 
 I am currently working on the following research topics:
 ### 1. Multimodal Learning with Natural Language Processing and Computer Vision
-Working towards recent hot topics on AI Chatbot, Generative AI, Personalized AIs, NLP pipelines and multimodal representation
+Working towards recent hot topics on AI Chatbot, Generative AI, Personalized AIs, Computer Vision Applications, NLP pipelines, Speech Recognition and multimodal Learning
   
 ### 2. Distributed and Democratized Learning
 I and my team are enthusiastic about the future of personalized services using distributed AI platforms. The complex hierarchical of social structure inspires us to move toward a novel distributed learning paradigm, namely *Democratized Learning* (**Dem-AI**). We envision Dem-AI to play an important role in this journey and step by step bring Dem-AI systems from the philosophy to the practical implementation. Through our studies, we aim to profoundly analyze and better control the vital generalization and specialization capability of the learning models in the Dem-AI systems.
