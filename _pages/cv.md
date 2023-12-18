@@ -56,7 +56,7 @@ Skills
 Selected Publications
 ======
 ### 2023
-1. Ye Lin Tun, **Minh N. H. Nguyen**, Chu Myaet Thwal, Jinwoo Choi, and Choong Seon Hong, "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Accepted in Elsevier Neural Networks, May 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
+1. Ye Lin Tun, **Minh N. H. Nguyen**, Chu Myaet Thwal, Jinwoo Choi, and Choong Seon Hong, "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Neural Networks Volume 165, 2023, Pages 689-704*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
 2. Thwal Chu Myaet, **Minh N. H. Nguyen**, Ye Lin Tun, Seong Tae Kim, My T. Thai, and Choong Seon Hong. "OnDev-LCT: On-Device Lightweight Convolutional Transformers Towards Federated Learning." *Accepted in Elsevier Neural Networks, Nov. 2023*, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437065)
 3. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
 4. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted to IEEE Computational Intelligence Magazine, 2023 [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
