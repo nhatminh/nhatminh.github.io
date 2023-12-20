@@ -21,7 +21,8 @@ Working Experience
 * 2022-now: **Director of Research Program** in Digital Science and Technology Institute (eSTI), VKU 
   * Leading Research Group of Intelligent Systems in (eSTI), VKU
   * Working towards recent hot topics on:
-    * Federated Learning, Generative AI, Personalized AI, NLP and Speech Recognition, and Multimodal learning
+    * Federated Learning, Generative AI, Personalized AI
+    * NLP and Speech Recognition, and Multimodal learning
   
 * 2014-now: **Lecturer**
   * Faculty of Computer Engineering and Electronics
