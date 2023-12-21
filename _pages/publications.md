@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=tnoge7wAAAAJ).
+
 2024
 =====
 1. "CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning", Minor Revision in Engineering Applications of Artificial Intelligence, 2024, [Paper](https://arxiv.org/abs/2204.01542)
