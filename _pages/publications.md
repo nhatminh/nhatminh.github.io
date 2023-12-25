@@ -9,11 +9,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2024
 =====
-1. "CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning", Minor Revision in Engineering Applications of Artificial Intelligence, 2024, [Paper](https://arxiv.org/abs/2204.01542)
-2. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
-3. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted to IEEE Computational Intelligence Magazine, 2023 [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
-4. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", Major Revision in IEEE Transactions on Vehicular Technology, 2023
-5. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Submitted to Neural Computing and Applications
+1. "CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning", Minor Revision in Engineering Applications of Artificial Intelligence, 2024, [Arxiv](https://arxiv.org/abs/2204.01542)
+2. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Submitted Neural Networks*, [Arxiv](https://arxiv.org/abs/2307.13214)
+3. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2023
+4. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted to IEEE Computational Intelligence Magazine, 2023 [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
+5. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", Major Revision in IEEE Transactions on Vehicular Technology, 2023
+6. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Submitted to Neural Computing and Applications
    
 2023
 =====
