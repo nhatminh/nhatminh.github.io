@@ -15,6 +15,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 4. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted to IEEE Computational Intelligence Magazine, 2023 [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
 5. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", Major Revision in IEEE Transactions on Vehicular Technology, 2023
 6. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Submitted to Neural Computing and Applications
+7. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", Preparation
    
 2023
 =====
