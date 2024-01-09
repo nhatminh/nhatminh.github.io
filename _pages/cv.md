@@ -67,7 +67,7 @@ Selected Publications
 6. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Submitted to Neural Computing and Applications
 7. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", Submitted
 8. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted
-9. "Cross-Modal Prototype based Multimodal Federated Learning Robust to Severe Missing Modality", Submitted
+9. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted
    
 ### 2023
 1. Ye Lin Tun, **Minh N. H. Nguyen**, Chu Myaet Thwal, Jinwoo Choi, and Choong Seon Hong, "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Neural Networks, Volume 165, Pages 689-704, Aug. 2023*, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023003192), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
