@@ -17,7 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 6. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Submitted to Neural Computing and Applications
 7. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", Submitted
 8. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted
-9. "Cross-Modal Prototype based Multimodal Federated Learning Robust to Severe Missing Modality", Submitted
+9. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted
    
 2023
 =====
