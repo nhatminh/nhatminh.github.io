@@ -11,13 +11,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 =====
 1. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", Accepted in IEEE Transactions on Vehicular Technology, 2024
 2. "CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning", Minor Revision in Engineering Applications of Artificial Intelligence, 2024, [Arxiv](https://arxiv.org/abs/2204.01542)
-3. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Submitted Neural Networks*, [Arxiv](https://arxiv.org/abs/2307.13214)
-4. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2024
-5. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted to IEEE Computational Intelligence Magazine, 2024 [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
-6. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Submitted to Neural Computing and Applications
-7. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", Submitted in 2024
-8. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024
-9. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024
+3. "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", Accepted in Evolutionary Intelligence, 2024
+4. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Submitted Neural Networks*, [Arxiv](https://arxiv.org/abs/2307.13214)
+5. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2024
+6. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted to IEEE Computational Intelligence Magazine, 2024 [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
+7. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Submitted to Neural Computing and Applications
+8. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", Submitted in 2024
+9. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024
+10. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024
    
 2023
 =====
