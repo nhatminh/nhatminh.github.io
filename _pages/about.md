@@ -12,7 +12,6 @@ Currently, I am working as
 - (Being Promoted) Vice Dean, In charge of Research Program at Digital Science and Technology Institute (eSTI), VKU, Vietnam
 - (Being Promoted) Deputy Head of Department of Science, Technology, and International Cooperation
 - Leading Research team of Intelligent Systems in eSTI
-- A lecturer at  Vietnam - Korea University of Information and Communication Technology (VKU) - The University of Danang, Vietnam 
 - A collaborator with multiple research groups:
   - Networking Intelligence Lab, Kyung Hee University, Korea (Multimodal Federated Learning) 
   - SPACHES lab at University of South Florida, USA (Medical Imaging Research)
