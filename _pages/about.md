@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Currently, I am working as 
-- Director of Research Program in Digital Science and Technology Institute (eSTI), VKU, Vietnam
+- (Being Promoted) Vice Dean, In charge of Research Program at Digital Science and Technology Institute (eSTI), VKU, Vietnam
+- (Being Promoted) Deputy Head of Department of Science, Technology, and International Cooperation
 - Leading Research team of Intelligent Systems in eSTI
 - A lecturer at  Vietnam - Korea University of Information and Communication Technology (VKU) - The University of Danang, Vietnam 
 - A collaborator with multiple research groups:
