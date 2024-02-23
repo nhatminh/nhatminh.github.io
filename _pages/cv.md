@@ -19,7 +19,7 @@ Education
 Working Experience
 ======
 * 03/2024-now: **Deputy Head of Department of Science, Technology, and International Cooperation**, VKU
-  * In Charge of Research Program** in Digital Science and Technology Institute (eSTI)
+  * In Charge of Research Program in Digital Science and Technology Institute (eSTI)
   * Leading Research Group of Intelligent Systems in (eSTI), VKU
   * Working towards recent hot topics on:
     * DaNang NLP Toolkits: Vietnamese NLP & Speech Recognition
