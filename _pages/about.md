@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Currently, I am working as 
-- (Being Promoted) Vice Dean, In charge of Research Program at Digital Science and Technology Institute (eSTI), VKU, Vietnam
-- (Being Promoted) Deputy Head of Department of Science, Technology, and International Cooperation
+- Deputy Head of Department of Science, Technology, and International Cooperation
+- In charge of Research Program at Digital Science and Technology Institute (eSTI), VKU, Vietnam
 - Leading Research team of Intelligent Systems in eSTI
 - A collaborator with multiple research groups:
   - Networking Intelligence Lab, Kyung Hee University, Korea (Multimodal Federated Learning) 
