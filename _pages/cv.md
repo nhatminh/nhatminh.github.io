@@ -26,7 +26,7 @@ Working Experience
     * Generative, Computer Vision Applications
     * Compressive Multimodal Representation toward Personalized AI
       
-* 2022-2023: **In Charge of Research Program** in Digital Science and Technology Institute (eSTI), VKU 
+* 2022-2023: **In Charge of Research Program** at Digital Science and Technology Institute (eSTI), VKU 
   * Leading Research Group of Intelligent Systems in (eSTI), VKU
 
 * 2014-now: **Lecturer**
