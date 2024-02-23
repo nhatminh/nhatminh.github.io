@@ -18,13 +18,17 @@ Education
 
 Working Experience
 ======
-* 2022-now: **Director of Research Program** in Digital Science and Technology Institute (eSTI), VKU 
+* 03/2024-now: **Deputy Head of Department of Science, Technology, and International Cooperation**, VKU
+  * In Charge of Research Program** in Digital Science and Technology Institute (eSTI)
   * Leading Research Group of Intelligent Systems in (eSTI), VKU
   * Working towards recent hot topics on:
     * DaNang NLP Toolkits: Vietnamese NLP & Speech Recognition
     * Generative, Computer Vision Applications
     * Compressive Multimodal Representation toward Personalized AI
-  
+      
+* 2022-2023: **In Charge of Research Program** in Digital Science and Technology Institute (eSTI), VKU 
+  * Leading Research Group of Intelligent Systems in (eSTI), VKU
+
 * 2014-now: **Lecturer**
   * Faculty of Computer Engineering and Electronics
   * Vietnam-Korea University of Information and Communication Technology - The University of Danang, Vietnam
