@@ -10,7 +10,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 2024
 =====
 1. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", Accepted in IEEE Transactions on Vehicular Technology, 2024, [Arxiv](https://arxiv.org/abs/2307.03402), [IEEE](https://ieeexplore.ieee.org/document/10423076)
-2. "CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning", Accepted in Engineering Applications of Artificial Intelligence, 2024, [Arxiv](https://arxiv.org/abs/2204.01542)
+2. Huy Q. Le, **Minh N.H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong, "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," Engineering Applications of Artificial Intelligence,
+Volume 133, Part B, 2024, [Link](https://www.sciencedirect.com/science/article/pii/S0952197624002513?via%3Dihub)
 3. "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", Accepted in Evolutionary Intelligence, 2024
 4. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Submitted Neural Networks*, [Arxiv](https://arxiv.org/abs/2307.13214)
 5. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted to Journal of Biomedical Informatics, 2024
