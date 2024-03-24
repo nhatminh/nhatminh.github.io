@@ -18,8 +18,8 @@ Volume 133, Part B, 2024, [Paper](https://www.sciencedirect.com/science/article/
 6. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted in 2024, [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
 7. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Major Revision in Neural Computing and Applications
 8. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", Submitted in 2024
-9. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024
-10. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024
+9. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024, [Arxiv] (https://arxiv.org/abs/2401.11647) 
+10. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024 [Arxiv], (https://arxiv.org/abs/2401.13898)
    
 2023
 =====
