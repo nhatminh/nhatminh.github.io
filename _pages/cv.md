@@ -66,14 +66,14 @@ Selected Publications
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
 Volume 133, Part B, 2024, [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624002513?via%3Dihub)
 2. Nguyen, Loc X., Ye Lin Tun, Yan Kyaw Tun, **Minh N. H. Nguyen**, Chaoning Zhang, Zhu Han, and Choong Seon Hong. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", *Accepted in IEEE Transactions on Vehicular Technology*, 2024, [Arxiv](https://arxiv.org/abs/2307.03402), [IEEE](https://ieeexplore.ieee.org/document/10423076)
-3. "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", *Accepted in Evolutionary Intelligence*, 2024, [Link] (https://link.springer.com/article/10.1007/s12065-024-00916-9)
+3. "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", *Accepted in Evolutionary Intelligence*, 2024, [Link](https://link.springer.com/article/10.1007/s12065-024-00916-9)
 4. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Major Revision in Neural Networks*, [Arxiv](https://arxiv.org/abs/2307.13214)
 5. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted in 2024
 6. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted in 2024, [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
 7. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Major Revision in Neural Computing and Applications
 8. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", Submitted in 2024
 9. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024, [Arxiv] (https://arxiv.org/abs/2401.11647) 
-10. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024 [Arxiv], (https://arxiv.org/abs/2401.13898) 
+10. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2401.13898) 
    
 ### 2023
 1. Thwal Chu Myaet, **Minh N. H. Nguyen**, Ye Lin Tun, Seong Tae Kim, My T. Thai, and Choong Seon Hong. "OnDev-LCT: On-Device Lightweight Convolutional Transformers Towards Federated Learning." *Neural Networks*, Volume 170, Pages 635-649, Feb. 2024, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006676), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437065)
