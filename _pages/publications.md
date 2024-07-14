@@ -12,7 +12,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
 Volume 133, Part B, 2024, [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624002513?via%3Dihub)
 2. Nguyen, Loc X., Ye Lin Tun, Yan Kyaw Tun, **Minh N. H. Nguyen**, Chaoning Zhang, Zhu Han, and Choong Seon Hong. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", in * IEEE Transactions on Vehicular Technology*, vol. 73, no. 6, pp. 8957-8972, June 2024, [Arxiv](https://arxiv.org/abs/2307.03402), [IEEE](https://ieeexplore.ieee.org/document/10423076)
-3. Huynh Thi Thanh Binh, Nguyen Thi Hanh, Nguyen Phuc Tan, La Van Quan, Dang The Ngoc, Nguyen Huu Nhat Minh, Huynh Cong Phap, "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", in *Evolutionary Intelligence*, April 2024, [Link](https://link.springer.com/article/10.1007/s12065-024-00916-9)
+3. Huynh Thi Thanh Binh, Nguyen Thi Hanh, Nguyen Phuc Tan, La Van Quan, Dang The Ngoc, **Nguyen Huu Nhat Minh**, Huynh Cong Phap, "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", in *Evolutionary Intelligence*, April 2024, [Link](https://link.springer.com/article/10.1007/s12065-024-00916-9)
 4. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Major Revision in Neural Networks*, [Arxiv](https://arxiv.org/abs/2307.13214)
 5. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted in 2024
 6. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted in 2024, [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
@@ -23,7 +23,7 @@ Volume 133, Part B, 2024, [Paper](https://www.sciencedirect.com/science/article/
 11. Trung Le, Vinh Nguyen, Hung Phan, and *Minh Nguyen*. "Multi-Task Learning Model for Detecting and Filtering Internet Violent Images for Children", in CITA Special issue of Research and Development on Information and Communication Technology, Vietnam, 18-24, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1261)
 12. Doan Nguyen, Anh Tran, Nam Vo, Tien Nguyen, Tuyen Le, Vuong Nguyen, and **Minh Nguyen**. "DaNangVMD: Vietnamese Speech Mispronunciation Detection", in CITA Special issue of Research and Development on Information and Communication Technology, Vietnam, 49-55, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1271)
 13. Nguyen Ket Doan, Nguyen Tran Tien, Nguyen Duc Bao, Ton That Ron, Vo Van Nam, Pham Van Nam, Phung Anh Sang, Huynh Cong Phap, **Nguyen Huu Nhat Minh**. "DaNangNLP Toolkit for Vietnamese Text Preprocessing and Word Segmentation", in Proceedings of CITA 2024   
-14. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, Nguyen Huu Nhat Minh. "Identify Problems of Electrical Insulators using Multi-Task Learning" in Proceedings of CITA 2024
+14. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, **Nguyen Huu Nhat Minh**. "Identify Problems of Electrical Insulators using Multi-Task Learning" in Proceedings of CITA 2024
     
 2023
 =====
