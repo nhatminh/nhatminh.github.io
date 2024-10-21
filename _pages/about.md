@@ -28,9 +28,9 @@ As a research scientist, I am passionate about developing sustainable solutions 
 I am currently working on the following research topics:
 ### 1. Multimodal Learning, Natural Language Processing, and Speech Recognition
 Working towards recent hot topics such as 
-    - Applied research on Vietnamese NLP, Speech Recognition
-    - Applied research on Generative AI, Computer Vision
-    - AI assistants, Personalized AIs
+- Applied research on Vietnamese NLP, Speech Recognition
+- Applied research on Generative AI, Computer Vision
+- AI assistants, Personalized AIs
 
 ### 2. Transfer knowledge, Multimodal Federated Learning
 I collaborate with Networking Intelligence lab on several Federated Learning papers that were published on ([INFOCOM 2019](https://ieeexplore.ieee.org/abstract/document/8737464/)) and other published papers in a high-quality journal such as:
