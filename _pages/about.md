@@ -11,11 +11,12 @@ redirect_from:
 Currently, I am working as 
 - Deputy Head of Department of Science, Technology, and International Cooperation
 - In charge of Research Program at Digital Science and Technology Institute (eSTI), VKU, Vietnam
-- Leading Research team of Intelligent Systems in eSTI
+- Leading Research group of Intelligent Systems in eSTI
 - A collaborator with multiple research groups:
   - Networking Intelligence Lab, Kyung Hee University, Korea (Multimodal Federated Learning) 
   - SPACHES lab at University of South Florida, USA (Medical Imaging Research)
 
+Former Postdoc at Kyung Hee University, South Korea, and Visiting Scholar at Indiana University South Bend, USA
 
 
 Email: nhnminh@vku.udn.vn, nhatminhhcmut@gmail.com, minhnhn@khu.ac.kr
@@ -23,16 +24,16 @@ Email: nhnminh@vku.udn.vn, nhatminhhcmut@gmail.com, minhnhn@khu.ac.kr
 This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ) and [DBLP link](https://dblp.org/pid/177/2939)
 
 ### Personal Statement
-As a research scientist, I am passionate about developing sustainable intelligent solutions for open challenges in future multi-modal, multi-domain complex systems. Throughout this journey, I keep challenging myself with an open mind and exploring many new domains to broaden my limited understanding.
+As a research scientist, I am passionate about developing sustainable solutions for open practical problems of social benefit in future multi-domain complex systems. Throughout this journey, I have challenged myself with an open mind and explored many emerging domains to find the proper solution approaches.
 
 I am currently working on the following research topics:
 ### 1. Multimodal Learning, Natural Language Processing, and Speech Recognition
 Working towards recent hot topics such as 
-  * DaNang NLP Toolkits: Vietnamese NLP & Speech Recognition
-  * Generative, Computer Vision Applications
-  * Compressive Multimodal Representation toward Personalized AI
+    * Applied research on Vietnamese NLP, Speech Recognition
+    * Applied research on Generative AI, Computer Vision
+    * AI assistants, Personalized AIs
 
-### 2. Federated Learning
+### 2. Transfer knowledge, Multimodal Federated Learning
 I collaborate with Networking Intelligence lab on several Federated Learning papers that were published on ([INFOCOM 2019](https://ieeexplore.ieee.org/abstract/document/8737464/)) and other published papers in a high-quality journal such as:
   * My paper about Federated Learning with the title "Toward Multiple Federated Learning Services Resource Sharing in Mobile Edge Networks" was published to *IEEE Transactions on Mobile Computing*
   * The ACM/IEEE Transactions on Networking journal version of INFOCOM paper "Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation" was published in *IEEE/ACM Transactions on Networking*. [ArXiv](https://arxiv.org/abs/1910.13067)
@@ -45,5 +46,5 @@ I and my team are enthusiastic about the future of personalized services using d
   * Dem-AI works were presented in an invited talk at The International Workshop on Distributed Cloud Computing (DCC) co-located with ACM SIGMETRICS 2020. [Link](http://dcc2020.ec.tuwien.ac.at/#meet-team)
   * The third paper with the title "Edge-assisted Democratized Learning Towards Federated Analytics" was published in *IEEE Internet of Things Journal* in 2021.
   
-### 4. Colocation Base Stations and Edge Computing and Wireless Sensor Networks
+### 4. Colocation Base Stations and Edge Computing and UAV Networks
 I studied the resource-sharing model for colocation services such as colocation Mobile Base Stations and edge computing during my Ph.D. thesis. Accordingly, we published a proposal for the *Fair Sharing of Backup Power* on *IEEE Transactions on Wireless Communications* ([IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9050517)) and another proposal for *Colocation Edge Computing*  on *IEEE Transactions on Vehicular Technology* ([IEEE TVT](https://ieeexplore.ieee.org/abstract/document/8247284)).
