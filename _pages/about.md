@@ -16,10 +16,9 @@ Currently, I am working as
   - Networking Intelligence Lab, Kyung Hee University, Korea (Multimodal Federated Learning) 
   - SPACHES lab at University of South Florida, USA (Medical Imaging Research)
 
-Former Postdoc at Kyung Hee University, South Korea, and Visiting Scholar at Indiana University South Bend, USA
+- Former Postdoc at Kyung Hee University, South Korea, and Visiting Scholar at Indiana University South Bend, USA
 
-
-Email: nhnminh@vku.udn.vn, nhatminhhcmut@gmail.com, minhnhn@khu.ac.kr
+- Email: nhnminh@vku.udn.vn, nhatminhhcmut@gmail.com, minhnhn@khu.ac.kr
 
 This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ) and [DBLP link](https://dblp.org/pid/177/2939)
 
