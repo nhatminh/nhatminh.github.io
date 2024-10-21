@@ -20,7 +20,7 @@ Currently, I am working as
 
 - Email: nhnminh@vku.udn.vn, nhatminhhcmut@gmail.com, minhnhn@khu.ac.kr
 
-This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ) and [DBLP link](https://dblp.org/pid/177/2939)
+- This is my [Google Scholar link](https://scholar.google.com/citations?user=tnoge7wAAAAJ) and [DBLP link](https://dblp.org/pid/177/2939)
 
 ### Personal Statement
 As a research scientist, I am passionate about developing sustainable solutions for open practical problems of social benefit in future multi-domain complex systems. Throughout this journey, I have challenged myself with an open mind and explored many emerging domains to find the proper solution approaches.
