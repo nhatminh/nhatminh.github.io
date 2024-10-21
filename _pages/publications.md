@@ -22,10 +22,11 @@ Volume 133, Part B, 2024, [Paper](https://www.sciencedirect.com/science/article/
 10. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2401.13898)
 11. "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2407.15426)
 12. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2024 
-13. Trung Le, Vinh Nguyen, Hung Phan, and *Minh Nguyen*. "Multi-Task Learning Model for Detecting and Filtering Internet Violent Images for Children", in CITA Special issue of Research and Development on Information and Communication Technology, Vietnam, 18-24, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1261)
-14. Doan Nguyen, Anh Tran, Nam Vo, Tien Nguyen, Tuyen Le, Vuong Nguyen, and **Minh Nguyen**. "DaNangVMD: Vietnamese Speech Mispronunciation Detection", in CITA Special issue of Research and Development on Information and Communication Technology, Vietnam, 49-55, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1271)
-15. Nguyen Ket Doan, Nguyen Tran Tien, Nguyen Duc Bao, Ton That Ron, Vo Van Nam, Pham Van Nam, Phung Anh Sang, Huynh Cong Phap, **Nguyen Huu Nhat Minh**. "DaNangNLP Toolkit for Vietnamese Text Preprocessing and Word Segmentation", in Proceedings of CITA 2024   
-16. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, **Nguyen Huu Nhat Minh**. "Identify Problems of Electrical Insulators using Multi-Task Learning" in Proceedings of CITA 2024
+13. Trung Le, Vinh Nguyen, Hung Phan, and *Minh Nguyen*. "Multi-Task Learning Model for Detecting and Filtering Internet Violent Images for Children", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 18-24, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1261)
+14. Doan Nguyen, Anh Tran, Nam Vo, Tien Nguyen, Tuyen Le, Vuong Nguyen, and **Minh Nguyen**. "DaNangVMD: Vietnamese Speech Mispronunciation Detection", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 49-55, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1271)
+15. Nguyen Ket Doan, Nguyen Tran Tien, Nguyen Duc Bao, Ton That Ron, Vo Van Nam, Pham Van Nam, Phung Anh Sang, Huynh Cong Phap, **Nguyen Huu Nhat Minh**. "DaNangNLP Toolkit for Vietnamese Text Preprocessing and Word Segmentation", *in Proceedings of CITA 2024*   
+16. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, **Nguyen Huu Nhat Minh**. "Identify Problems of Electrical Insulators using Multi-Task Learning", *in Proceedings of CITA 2024*
+17. **Minh N. H. Nguyen** et. al "A Hybrid Learning of Lexical and Language Processing for Domain Credibility Classification", *in Proceedings of ATC 2024*
     
 2023
 =====
