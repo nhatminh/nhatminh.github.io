@@ -55,15 +55,6 @@ Working Experience
 * 2012: **Internship student**
   * PosTech University, South Korea.
   
-{% Skills
-======
-* Teamwork
-* Problem-solving
-* Project management
-* Teaching, instruction, and tutorials
-* Creative and interdisciplinary thinking %}
-
-
 Selected Publications
 ======
 ### 2024
