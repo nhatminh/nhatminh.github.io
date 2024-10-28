@@ -5,14 +5,7 @@ permalink: /posts/2024/10/blog-post-1/
 tags:
   - Eastern Science
 ---
-This is based on our [medium post](https://medium.com/@shashir101/distributed-and-democratized-learning-philosophy-and-research-challenges-4ef156ed42ca).
-
-The full detail of the paper can be found on [ArXiv](https://arxiv.org/abs/2003.09301).
-
-We develop a novel design philosophy called democratized learning (Dem-AI) whose goal is to build large-scale distributed learning systems that rely on the hierarchical self-organization of distributed learning agents that are well-connected, but limited in learning capabilities. Dem-AI learning system can evolve and regulate itself based on the underlying duality of two processes that we call specialized and generalized processes.
-
-
-Artificial Intelligence (AI) is moving towards edge devices with the availability of massively distributed data sources and the increase in computing power for handheld and wireless devices such as smartphones or self-driving cars. This has generated growing interest to develop large-scale distributed machine learning paradigms.
+!Bài viết dựa trên trải nghiệm cá nhân
 
 
 ### Democracy in Learning
