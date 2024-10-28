@@ -5,7 +5,8 @@ permalink: /posts/2024/10/blog-post-1/
 tags:
   - Eastern Science
 ---
-!Bài viết dựa trên trải nghiệm cá nhân
+!!! This is based on my PERSONAL EXPLORATION
+!!! Bài viết dựa trên khám nghiệm cá nhân
 
 
 ### Democracy in Learning
