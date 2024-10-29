@@ -66,7 +66,8 @@ Indeed, technologies often come with pros and cons. If we keep the conventional 
 A question came to me: Can we prove, and formulate everything regarding highly dynamic and fast-ever-evolved intelligence as well as climate changes?
 
 If we could not go deeper into the nature/roots of problems itself, we hardly see the overview picture as a whole.
-A new approach may emerge from my experience:
+
+A new approach may emerge from my experience that I named as Eastern Science:
 - A thing could be seen from many views, and angles but can be understandable when we concentrate more on the root causes not only the top
 - We should not look up to the Theoretical Theory (far from practice) and look down to the Practical Confidential Evidence and Experience
 - Open Mindset and Accept the nonsense to nurture creativity and innovation since we don't know what we don't know due to our limited senses and perspectives
