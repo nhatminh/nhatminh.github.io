@@ -44,7 +44,7 @@ At first, I hardly to see things in Eastern way according to nowadays Western sc
 But in Eastern approaches, it seems we need great master to help us understand the deep mechanism behind the seen. Seems unseen, unawared mechanisms affect strongly many seen mechanisms.
 The Eastern approaches seems accept heuristic approaches lead to practical results rather than proving by equations. 
 
-Eastern approaches ask us to be living deeply based on the humanity ethics and casual effects. Remind us to respect nature, ecosystems and sharing community.
+Eastern approaches ask us to be living deeply based on the humanity ethics, unselfish, goodness, widsom based on casual effects. Remind us to respect nature, ecosystems, harmony being, sharing community, totality, unification, peace.
 (Again. I would not describe further, since my limited experience and capability could not represent others).
 
 ### Eastern Science
@@ -53,9 +53,13 @@ I am here in USA, looking at the great success of AI. Many big plans for applyin
 I wonder Western science is left behind the fast-growing Large AIs towards the big things like AGI (artificial general intelligence). 
 Theoretical science tried all of their efforts but could not catch the big AIs.
 Indeed, technologies often come with pros and cons. If we keep the old fashions try to prove things after its widely usage, science seems be left behind. So, it will be ineffective responsibility for the emerging powerful technologies such as AI. 
-A question come to me? Can we prove everything regarding highly-dynamic and fast-ever evolved intelligence?
-If we not go to the nature/roots of problems itself, we hardly to see the big picture of the whole.
+A question came to me? Can we prove everything regarding highly-dynamic and fast-ever evolved intelligence?
+If we not go deeper to the nature/roots of problems itself, we hardly to see the big picture as a whole.
 
+A new approach may emerge as my current vision:
+- A thing could be seen in many views, angles but can be understandable when we concentrate more towards the roots not only the top
+- Accept the nonsense since we don't know what we don't know due to our limited senses and perspectives
+- A lot of problems cannot be proved by maths equations but we live with it and adapt to the frequent changes (E.g.: our balance body, earth ecosystem, social welfare and peace)
 
 
 
