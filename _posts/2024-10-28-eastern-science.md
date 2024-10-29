@@ -22,8 +22,8 @@ I bought semi-pro and pro cameras and lenses to see how enthusiastic photographe
 I continue for a while with guitar and learn some experience of melodies. Here I feel the beauty is also in melody, which is also nonsense to my logical mindset. 
 It seems I started living with two different views of life sense beauty (maths, equations) as well as nonsense beauty (light, melody)
 
-The best lesson I learned so far is that things can be viewed and experienced by sense as well as nonsense.
-Being a little artistic scientist enables me to start viewing things with a more open mindset 
+The best lesson I learned so far is that things can be viewed and experienced by Sense as well as Nonsense.
+Being a little artistic scientist enables me to start viewing things with a more Open Mindset. 
 
 This journey finally comes with a new idea for the philosophy of democratized learning (sense-nonsense reasons). 
 I extended my journey to philosophy and looked for analogies from physics, biology, and chemistry patterns to explore what actual system behaviors of distributed AIs.
@@ -45,7 +45,7 @@ At first, I hardly saw things in Eastern way according to nowadays Western scien
 But in Eastern approaches, it seems we need great masters to instruct us to understand the deep mechanism behind the scenes (luckily, I found great masters). Seems unseen, unaware mechanisms could affect strongly many seen mechanisms. Since untold philosophies are hidden from the publicity as well for many reasons. 
 The Eastern approaches seem to accept heuristic approaches based on confidential experience leading to practical results rather than proving by theoretical equations. 
 
-Eastern approaches ask us to be living deeply based on humanity's ethics, unselfishness, goodness, and wisdom based on causal effects. It reminds us we are a part of wholeness, and thus need to respect nature, ecosystems, harmony living, sharing community, totality, unification, and peace.
+Eastern approaches ask us to live deeply based on humanity's ethics, unselfishness, goodness, and wisdom based on causal effects. It reminds us we are a part of wholeness, and thus need to respect nature, ecosystems, harmony living, sharing community, totality, unification, and peace.
 (Again. I would not describe further, since my limited experience and capability could not represent others).
 
 ### Eastern Science
@@ -60,9 +60,10 @@ If we could not go deeper into the nature/roots of problems itself, we hardly se
 A new approach may emerge from my experience:
 - A thing could be seen from many views, and angles but can be understandable when we concentrate more on the root causes not only the top
 - We should not look up to the Theoretical Theory (far from practice) and look down to the Practical Confidential Evidence and Experience
-- Accept the nonsense to nurture creativity and innovation since we don't know what we don't know due to our limited senses and perspectives
+- Open Mindset and Accept the nonsense to nurture creativity and innovation since we don't know what we don't know due to our limited senses and perspectives
 - A lot of problems cannot be proved by math equations but we live with them and adapt to the rapid climate and technological changes 
 - After all, we need a Systematic Effective Approach regarding both sense and nonsense toward Ultimate, Practical, Collective Efficiency (E.g.: our balanced body, earth's ecosystem, ultimate social welfare, and global peace)
+- Be aware and Reject False Beliefs without any Confidential Evidence or Experience, Not based on Casual Effect since Nonsense includes many of them and unwanted consequences.
 
 
 
