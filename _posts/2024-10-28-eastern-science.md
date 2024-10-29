@@ -14,6 +14,7 @@ Since I was young and working towards PhD program, understanding powerful scient
   * I started applying theories to the research to get good publication according to normal high-quality research standards
 
 Soon, I realized the big gap between my research and the daily reality and starting wonder about the meaning and practical senses. I started looking for stronger theories and extending the research problem to bring it to more complicated scenarios but still a tremendous gap compared to the actual systems. But soon, publication race became more important to science rather than discovering the actual causes of things. This is not because we are lazy but it is somehow related to the many unsolvable limitations within the approaches themselves or time/budget limitations as well. 
+
 *(I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Adventure to explore different views of life
@@ -28,8 +29,9 @@ Being a little artistic scientist enables me to start viewing things with a more
 This journey finally comes with a new idea for the philosophy of democratized learning (sense-nonsense reasons). 
 I extended my journey to philosophy and looked for analogies from physics, biology, and chemistry patterns to explore what actual system behaviors of distributed AIs.
 I learned there we have a complex biological world, complex chemical reactions, and physical laws. Go deeper, anyone could realize many magical, amazing, intelligent,  pathologies, chains, and patterns in nature everywhere. 
-And the links are blurred... 
-(Again. I would not describe further, since my limited experience and capability could not represent others).
+And the links are so blurred... 
+
+*(Again. I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Another leap coming
 It finally led me to whole new areas that nowadays science often leaves behind such as ancient knowledge and philosophy. This leap takes me a long journey to learn and glimpse into how ancients view life.
