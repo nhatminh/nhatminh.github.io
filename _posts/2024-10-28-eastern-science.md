@@ -12,9 +12,9 @@ tags:
 ##### !!! Bài viết dựa trên khám phá cá nhân không đại diện cho những nhà nghiên cứu khác !
 
 ### Adventure to Western Science
-Since I was young and working towards PhD program, understanding powerful scientific approaches such as theoretical analysis, and experimental analysis has helped me a lot to catch up with my research domains. Year by year work hard by analyzing the concepts, equations, and derivations in paper based on many approximations to relax, add more assumptions reduce complexity, or prove the efficiency of the solution approach. This journey amazes me at the first sight of understanding deeper about complex systems. 
+Since I was young and working towards PhD program, understanding powerful scientific approaches such as theoretical analysis, and experimental analysis has helped me a lot to catch up with my research domains. Year-by-year work hard by analyzing the concepts, equations, and derivations in paper based on many approximations to relax, add more assumptions reduce complexity, or prove the efficiency of the solution approach. This journey amazes me at the first sight of understanding deeper about complex systems. 
   * As these powerful tools for science, they deviate us from personal bias and magically resolve many difficult research problems
-  * I started applying theories to the research to get good publication according to normal high-quality research standards
+  * I started applying theories to the research to get good publications according to normal high-quality research standards
 
 Soon, I realized the big gap between my research and the daily reality and starting wonder about the meaning and practical senses. I started looking for stronger theories and extending the research problem to bring it to more complicated scenarios but still a tremendous gap compared to the actual systems. But soon, publication race became more important to science rather than discovering the actual causes of things. This is not because we are lazy but it is somehow related to the many unsolvable limitations within the approaches themselves or time/budget limitations as well. 
 
@@ -32,7 +32,7 @@ It seems I started living with two different views of life such as sense beauty 
 
 This journey finally comes with a new idea for the philosophy of democratized learning including sense-nonsense reasons. 
 I extended my journey to philosophy and looked for analogies from physics, biology, and chemistry patterns to explore what actual system behaviors of distributed AIs.
-I learned there we have a complex biological world, complex chemical reactions, and physical laws. Go deeper, anyone could realize many magical, amazing, intelligent physiologies, chains, and patterns in nature everywhere. 
+I learned there we have a complex biological world, complex chemical reactions, and physical laws. Going deeper, anyone could realize many magical, amazing, intelligent physiologies, chains, and patterns in nature everywhere. 
 And the links among them are quite blurred... 
 
 *(Again. I would not describe further, since my limited experience and capability could not represent others).*
