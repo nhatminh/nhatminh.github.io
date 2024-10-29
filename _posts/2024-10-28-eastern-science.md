@@ -21,7 +21,7 @@ Soon, I realized the big gap between my research and the daily reality and start
 *(I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Adventure to explore different views of life
-But from my inner understanding, I would love to find other ways to see things differently or deeper...
+From my inner understanding, I would love to find other ways to see things differently or deeper...
 I bought semi-pro and pro cameras and lenses to see how enthusiastic photographers see things. After years I see the beauty in color, even in grass and light. That journey takes me closer to art meaning even I don't exactly know how to explain it. Beauty is sometimes actually nonsense to my logical mindset.
 
 I continue for a while with guitar and learn some experience of melodies. Here I feel the beauty is also in melody, which is also nonsense to my logical mindset. 
@@ -62,7 +62,7 @@ Eastern approaches ask us to live deeply based on humanity's ethics, unselfishne
 ### Eastern Science
 Last but not least, this final part is the main motivation for this blog.
 
-I am here in the USA for two and half month, looking at the recent great success of AI. Many big plans and investments for applying AI into normal lives, but also raise a lot of visible/invisible concerns. 
+I have been here in the USA for two and half months, looking at the recent great success of AI. Many big plans and investments for applying AI into normal lives, but also raise a lot of visible/invisible concerns. 
 I wonder if Western science is left behind the fast-growing Large AIs towards the big things like AGI (artificial general intelligence). 
 Theoretical scientists tried their best but could not catch the big AIs.
 Indeed, technologies often come with pros and cons. If we keep the conventional fashions and try to prove and formulate systems after their wide usage, theoretical science seems to be stuck and could be left behind the reality. So, this approach could be ineffective for the emerging powerful technologies such as AI and rapid changes in the economy, and climate. 
@@ -98,7 +98,7 @@ Sớm sau đó, tôi nhận ra khoảng cách lớn giữa nghiên cứu của m
 
 ### Hành trình khám phá các quan điểm khác nhau về cuộc sống
 
-Nhưng từ hiểu biết bên trong của tôi, tôi mong muốn tìm những cách nhìn nhận khác hoặc sâu sắc hơn… Tôi đã mua các máy ảnh bán chuyên nghiệp và chuyên nghiệp cùng với ống kính để nhìn theo cách của các nhiếp ảnh gia đam mê. Và sau nhiều năm tôi bắt đầu nhìn thấy vẻ đẹp trong màu sắc, ngay cả cỏ cây và ánh sáng. Hành trình này đưa tôi đến gần hơn với ý nghĩa nghệ thuật, mặc dù đôi khi tôi khó có thể giải thích rõ ràng. Cái đẹp đôi khi thật sự khó có thể giải thích đối với tư duy logic của tôi.
+Từ hiểu biết bên trong, tôi mong muốn tìm những cách nhìn nhận khác hoặc sâu sắc hơn… Tôi đã mua các máy ảnh bán chuyên nghiệp và chuyên nghiệp cùng với ống kính để nhìn theo cách của các nhiếp ảnh gia đam mê. Và sau nhiều năm tôi bắt đầu nhìn thấy vẻ đẹp trong màu sắc, ngay cả cỏ cây và ánh sáng. Hành trình này đưa tôi đến gần hơn với ý nghĩa nghệ thuật, mặc dù đôi khi tôi khó có thể giải thích rõ ràng. Cái đẹp đôi khi thật sự khó có thể giải thích đối với tư duy logic của tôi.
 
 Tôi tiếp tục một thời gian với cây đàn guitar và học một ít về các giai điệu. Tôi cảm nhận vẻ đẹp cũng tồn tại trong giai điệu, điều này cũng khó lý giải đối với tư duy logic của tôi.
 Có vẻ như tôi bắt đầu sống với hai cách nhìn khác nhau về cuộc sống: vẻ đẹp của logic (toán học, phương trình) cũng như vẻ đẹp vô nghĩa (ánh sáng, giai điệu).
