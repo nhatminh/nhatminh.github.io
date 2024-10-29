@@ -9,7 +9,7 @@ tags:
 ## Brief Discussion on Emerging Eastern Science ##
 
 ##### !!! This is based on my PERSONAL EXPLORATION not represent for the others !
-##### !!! Bài viết dựa trên khám phá cá nhân không đại diện cho những nhà nghiên cứu khá !
+##### !!! Bài viết dựa trên khám phá cá nhân không đại diện cho những nhà nghiên cứu khác !
 
 ### Adventure to Western Science
 Since I was young and working towards PhD program, understanding powerful scientific approaches such as theoretical analysis, and experimental analysis has helped me a lot to catch up with my research domains. Year by year work hard by analyzing the concepts, equations, and derivations in paper based on many approximations to relax, add more assumptions reduce complexity, or prove the efficiency of the solution approach. This journey amazes me at the first sight of understanding deeper about complex systems. 
