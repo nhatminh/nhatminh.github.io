@@ -5,19 +5,37 @@ permalink: /posts/2024/10/blog-post-1/
 tags:
   - Eastern Science
 ---
-!!! This is based on my PERSONAL EXPLORATION
-!!! Bài viết dựa trên khám nghiệm cá nhân
+##### !!! This is based on my PERSONAL EXPLORATION not represent for the others ! Or you can see this as novel
+##### !!! Bài viết dựa trên khám pha cá nhân khong dai dien cho nhung nha nghien cuu khac ! Hoac co the xem day la cau chuyen
 
+### Adventure to Western Science
+Since I was young and working towards PhD program, understanding powerful scientific approaches such as theoretical analysis, experimental analysis helps me a lot to catch up my research domains. Year by year working hard by analyzing the concepts, equations, derviation in paper based on many approximation to relax or prove for the solution approach. This journey amazes me at the first sight of understanding deeper about complex systems. 
+  * As the powerful tools for science, this deviate us from bias and magically resolve many difficult research problems
+  * I start applying theories to the research to get good publication according to normal high-quality research standards
 
-### Democracy in Learning
-Democracy in learning features a unique characterization of participation in the learning process, and consequently develops the notion of democracy in learning whose principles include the following:
-  * According to the differences in characteristics of learning agents, they are divided into appropriate groups that can be specialized for the learning tasks. These specialized groups are self-organized in a hierarchical structure to mediate voluntary contributions from all members in the collaborative learning for solving multiple complex tasks.
-  * The shared generalized learning knowledge supports specialized groups and learning agents to improve their learning performance by reducing individual biases during participation. In particular, the learning system allows new group members to: a) speed up their learning process with the existing group knowledge and b) incorporate their new learning knowledge in expanding the generalization capability of the whole group.
-  
-To that end, these characteristics motivate us to develop a novel design philosophy for future large-scale distributed learning systems.
+Soon, I realized the big gap between my research and the daily reality and starting wonder about the meaning and practical senses. I am start looking for stronger theory, extend the research problem to bring it to more complicated scenarios but still a tremendous gap still there. But as usual publication race is more important to figure out the actual cause of things, this is not because of we are lazy but it is somehow relate to limitation of our approach as well. (I would not describe further, since my limited experience and capability could not represent others).
 
-### In summary
-Existing machine learning designs (such as meta-learning, multi-task learning, reinforcement learning, federated learning) face critical challenges to scale up the current centralized AI systems into the distributed AI systems that can perform multiple complex learning tasks. Therefore, in the future, a transition from traditional centralized learning systems towards large-scale distributed AI systems is imperative.
+### Adventure to explore different views of life
+But from my inner understanding, I would love to find other ways to see things differently or deeper...
+I bought semi-pro and pro camreas and lenses to see how enthusiastic photographer see things and after years I see the beauty in even grass and light. That journey takes me closer to art meaning even I don't exactly know how to explain it. Beauty is sometimes actually nonsense to my logical mindset.
+I continue for a while with guitar and learn some experience of melodies. Here I feel the beauty is also in melody, which is also nonsense to my logical mindset. 
+It seems I started living with two different views of life sense beauty (maths, equations) as well as nonsense beauty (light, melody)
 
-### Takeaway
-We realize that Dem-AI philosophy is relatable in our development process, for instance, in dealing with representation and diversity when doing collaborative tasks, and further, reducing biases through open discussion. Most importantly, Dem-AI philosophy enriches our understanding of a distributed learning system with a broader perspective, and in practice, it opens up unlimited applicabilities for future distributed learning systems.
+The best lesson I learnt so far that things can be viewed and experienced by sense as well as nonsense
+An artistic scientist enables me to start viewing things with a more open mindset 
+
+This journey finally comes with a new idea for the philosophy of democratized learning (sense-nonsense reasons). 
+I extended my journey to philosophy and look for analogy physic, biology, chemistry patterns to explore what actually system behaviors of distributed AIs.
+I learnt there we have complex biological world, the complex chemistrical reactions and physical laws. Go deep, it is not difficult to see many magical intteligent pathology, chains, patterns. 
+And the links are blurred... 
+(Again. I would not describe further, since my limited experience and capability could not represent others).
+
+### Another leap coming
+It finally lead me to a whole new areas that nowadays science often leave behind about accient knowledges and philosophy. This leap take me a long journey to learn and glimpse on how accients view of life.
+I wish I would not touch many constroversial things but instead this let me question more broadly about the nature of existing and life, the nature of things. Surprisingly, How simple and deep they are...
+
+Especially in Eastern philosophies, they don't need equations or experiments to cure people, how they can do that?
+How difference they defined and interactd with the nature?
+How difference approaches they used?
+Most of them are magically nonsense to nowadays science?
+
