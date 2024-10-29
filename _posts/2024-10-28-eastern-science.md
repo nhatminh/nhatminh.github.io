@@ -16,7 +16,7 @@ Since I was young and working towards PhD program, understanding powerful scient
   * As these powerful tools for science, they deviate us from personal bias and magically resolve many difficult research problems
   * I started applying theories to the research to get good publications according to normal high-quality research standards
 
-Soon, I realized the big gap between my research and the daily reality and starting wonder about the meaning and practical senses. I started looking for stronger theories and extending the research problem to bring it to more complicated scenarios but still a tremendous gap compared to the actual systems. But soon, publication race became more important to science rather than discovering the actual causes of things. This is not because we are lazy but it is somehow related to the many unsolvable limitations within the approaches themselves or time/budget limitations as well. 
+Soon, I realized the big gap between my research and the daily reality and starting wonder about the meaning and practical senses. I started looking for stronger theories and extending the research problems to bring them to more complicated scenarios but still a tremendous gap compared to the actual systems. But soon, publication race became more important to science rather than discovering the actual causes of things. This is not because we are lazy but it is somehow related to the many unsolvable limitations within the approaches themselves or time/budget limitations as well. 
 
 *(I would not describe further, since my limited experience and capability could not represent others).*
 
@@ -90,9 +90,9 @@ Chỉnh sửa từ Hỗ trợ Dịch Tiếng Việt bởi ChatGPT
 Từ khi mới bắt đầu quá trình học Tiến sĩ, việc hiểu các phương pháp khoa học mạnh mẽ như phân tích lý thuyết và phân tích thực nghiệm đã giúp tôi rất nhiều để bắt kịp với các lĩnh vực nghiên cứu của mình. Năm tháng trôi qua, tôi làm việc chăm chỉ bằng cách phân tích các khái niệm, phương trình và các phép suy luận trong các tài liệu, dựa trên nhiều giả định để làm giảm độ phức tạp hoặc chứng minh tính hiệu quả của phương pháp giải quyết. Hành trình này thực sự khiến tôi không khỏi kinh ngạc khi lần đầu tiên hiểu sâu hơn và lý giải các hệ thống phức tạp.
 
 * Những công cụ khoa học này giúp chúng ta tránh xa các thiên kiến cá nhân và kỳ diệu giải quyết nhiều bài toán nghiên cứu khó khăn.
-* Tôi bắt đầu áp dụng lý thuyết vào nghiên cứu để đạt được các ấn phẩm chất lượng theo tiêu chuẩn nghiên cứu cao.
+* Tôi bắt đầu áp dụng lý thuyết vào nghiên cứu để đạt được các công bố chất lượng theo tiêu chuẩn nghiên cứu tốt.
   
-Sớm sau đó, tôi nhận ra khoảng cách lớn giữa nghiên cứu của mình và thực tế cuộc sống hàng ngày và bắt đầu tự hỏi về ý nghĩa và giá trị thực tiễn của nó. Tôi tìm kiếm các lý thuyết mạnh mẽ hơn và mở rộng vấn đề nghiên cứu để đưa vào ra các trường hợp phức tạp hơn, nhưng khoảng cách so với các hệ thống thực tế vẫn còn rất lớn. Dần dần, việc chạy đua để có công bố trở nên quan trọng hơn so với việc khám phá bản chất thực sự của sự vật. Điều này không phải vì chúng ta lười biếng, mà đôi khi do những giới hạn không thể khắc phục được trong các phương pháp tiếp cận hoặc những hạn chế về thời gian/ngân sách.
+Sớm sau đó, tôi nhận ra khoảng cách lớn giữa nghiên cứu của mình và thực tế cuộc sống hàng ngày và bắt đầu tự hỏi về ý nghĩa và giá trị thực tiễn của nó. Tôi tìm kiếm các lý thuyết mạnh mẽ hơn và mở rộng các vấn đề nghiên cứu để đưa vào ra các trường hợp phức tạp hơn, nhưng khoảng cách so với các hệ thống thực tế vẫn còn rất lớn. Dần dần, việc chạy đua để có công bố trở nên quan trọng hơn so với việc khám phá bản chất thực sự của sự vật. Điều này không phải vì chúng ta lười biếng, mà đôi khi do những giới hạn không thể khắc phục được trong các phương pháp tiếp cận hoặc những hạn chế về thời gian/ngân sách.
 
 *(Tôi sẽ không mô tả thêm, vì kinh nghiệm và năng lực hạn chế của tôi không thể đại diện cho người khác).*
 
