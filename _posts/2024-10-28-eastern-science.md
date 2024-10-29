@@ -35,7 +35,7 @@ And the links are so blurred...
 
 ### Another leap coming
 It finally led me to whole new areas that nowadays science often leaves behind such as ancient knowledge and philosophy. This leap takes me a long journey to learn and glimpse into how ancients view life.
-I wish I would not touch many constroversial things but instead, this let me question more broadly about the nature of existing and life, the nature of things. Surprisingly, How simple and deep they are...
+I wish I would not touch many controversial things but instead, this let me question more broadly about the nature of existing and life, the nature of things. Surprisingly, How simple and deep they are...
 
 Especially in Eastern philosophies, they don't need theoretical equations or simulations to cure people, or adapt to nature, how could they do that?
 
@@ -67,15 +67,15 @@ A question came to me: Can we prove, and formulate everything regarding highly d
 
 If we could not go deeper into the nature/roots of problems itself, we hardly see the overview picture as a whole.
 
-A new approach may emerge from my experience that I named as Eastern Science:
-- A thing could be seen from many views, and angles but can be understandable when we concentrate more on the root causes not only the top
-- We should not look up to the Theoretical Theory (far from practice) and look down to the Practical Confidential Evidence and Experience
+A new approach may emerge from my experience that I named Eastern Science as emerging Balance Science:
+- A thing could be seen from many views, and angles but can be understandable, hence we concentrate also on the Root Causes not only the Top
+- We should not look up to the Theoretical Theory (could be far from practice) and look down to the Practical Confidential Evidence and Experience
 - Open Mindset and Accept the nonsense to nurture creativity and innovation since we don't know what we don't know due to our limited senses and perspectives
 - A lot of problems cannot be proved by math equations but we live with them and adapt to the rapid climate and technological changes 
 - After all, we need a Systematic Effective Approach regarding both sense and nonsense toward Ultimate, Practical, Collective Efficiency (E.g.: our balanced body, earth's ecosystem, ultimate social welfare, and global peace)
 - Be aware and Reject False Beliefs without any Confidential Evidence or Experience, Not based on Casual Effect since Nonsense includes many of them and unwanted consequences.
 
-Wish we will find the proper for our lives.
+Wish you will find the proper approaches for your lives.
 
 ##### !!! This is based on my PERSONAL EXPLORATION not represent for the others !
 
