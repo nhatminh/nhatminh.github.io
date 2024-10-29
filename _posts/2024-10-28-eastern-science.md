@@ -27,8 +27,8 @@ I bought semi-pro and pro cameras and lenses to see how enthusiastic photographe
 I continue for a while with guitar and learn some experience of melodies. Here I feel the beauty is also in melody, which is also nonsense to my logical mindset. 
 It seems I started living with two different views of life such as sense beauty (maths, equations) as well as nonsense beauty (light, melody, colors, creativity, ...)
 
-The best lesson I learned so far is that things can be viewed and experienced by Sense as well as Nonsense.
-Being a little artistic scientist enables me to start viewing things with a more Open Mindset. 
+> The best lesson I learned so far is that things can be viewed and experienced by Sense as well as Nonsense.
+> Being a little artistic scientist enables me to start viewing things with a more Open Mindset. 
 
 This journey finally comes with a new idea for the philosophy of democratized learning including sense-nonsense reasons. 
 I extended my journey to philosophy and looked for analogies from physics, biology, and chemistry patterns to explore what actual system behaviors of distributed AIs.
@@ -41,7 +41,7 @@ And the links among them are quite blurred...
 It finally led me to whole new areas that nowadays science often leaves behind such as ancient knowledge and philosophy. This leap takes me a long journey to learn and glimpse into how ancients view life.
 I wish I would not touch many controversial things but instead, this let me question more broadly about the nature of existing and life, the nature of things. Surprisingly, How simple and deep they are...
 
-Especially in Eastern philosophies, they don't need theoretical equations or simulations to cure people, or adapt to nature, how could they do that?
+> Especially in Eastern philosophies, they don't need theoretical equations or simulations to cure people, or adapt to nature, how could they do that?
 
 How different are they defined and interacted with nature!
 How different are the approaches they used!
@@ -67,11 +67,11 @@ I wonder if Western science is left behind the fast-growing Large AIs towards th
 Theoretical scientists tried their best but could not catch the big AIs.
 Indeed, technologies often come with pros and cons. If we keep the conventional fashions and try to prove and formulate systems after their wide usage, theoretical science seems to be stuck and could be left behind the reality. So, this approach could be ineffective for the emerging powerful technologies such as AI and rapid changes in the economy, and climate. 
 
-A question came to me: Can we prove, and formulate everything regarding highly dynamic and fast-ever-evolved intelligence as well as climate changes?
+> A question came to me: Can we prove, and formulate everything regarding highly dynamic and fast-ever-evolved intelligence as well as climate changes?
 
-If we could not go deeper into the nature/roots of problems itself, we hardly see the overview picture as a whole.
+> If we could not go deeper into the nature/roots of problems itself, we hardly see the overview picture as a whole.
 
-A new approach may emerge from my experience that I named Eastern Science as emerging Balance Science:
+#### A new approach may emerge from my experience that I named Eastern Science as emerging Balance Science:
 - A thing could be seen from many views, and angles but can be understandable, hence we concentrate also on the **Root Causes** not only the Top
 - We should not look up to the Theoretical Theory (could be far from practice) and look down to the **Practical Confidential Evidence and Experience**
 - **Open Mindset** and Accept the nonsense to nurture creativity and innovation since we don't know what we don't know due to our limited senses and perspectives
@@ -103,8 +103,8 @@ Nhưng từ hiểu biết bên trong của tôi, tôi mong muốn tìm những c
 Tôi tiếp tục một thời gian với cây đàn guitar và học một ít về các giai điệu. Tôi cảm nhận vẻ đẹp cũng tồn tại trong giai điệu, điều này cũng khó lý giải đối với tư duy logic của tôi.
 Có vẻ như tôi bắt đầu sống với hai cách nhìn khác nhau về cuộc sống: vẻ đẹp của logic (toán học, phương trình) cũng như vẻ đẹp vô nghĩa (ánh sáng, giai điệu).
 
-Bài học quý giá nhất mà tôi đã học được là mọi thứ có thể được trải nghiệm qua cảm nhận và cả sự không lý giải được.
-Là một nhà khoa học có chút nghệ thuật giúp tôi bắt đầu nhìn mọi thứ với một tâm trí cởi mở hơn.
+> Bài học quý giá nhất mà tôi đã học được là mọi thứ có thể được trải nghiệm qua cảm nhận và cả sự không lý giải được.
+> Là một nhà khoa học có chút nghệ thuật giúp tôi bắt đầu nhìn mọi thứ với một tâm trí cởi mở hơn.
 
 Hành trình này cuối cùng dẫn đến một ý tưởng mới về triết lý mô hình AI phân tán (Demoratized Learning). Tôi đã mở rộng hành trình khám phá của mình sang các triết lý và tìm kiếm các sự tương đồng từ các mô hình trong vật lý, sinh học, và hóa học để khám phá bản chất hành vi của các hệ thống AI phân tán.
 Tôi nhận ra rằng chúng ta có một thế giới sinh học phức tạp, các phản ứng hóa học phức tạp, và các định luật vật lý. Đi sâu hơn, ai cũng có thể nhận ra nhiều điều kỳ diệu, thông minh trong chu trình sinh lý, chuỗi, và các mô hình trong tự nhiên.
@@ -117,7 +117,7 @@ Và các mối liên kết giữa chúng thì khá mờ nhạt…
 Cuối cùng, điều này dẫn tôi đến những lĩnh vực hoàn toàn mới mà ngày nay khoa học thường bỏ qua, như kiến thức triết lý cổ xưa. Bước tiến này đưa tôi vào một hành trình dài để học và có cái nhìn sơ bộ vào cách người xưa nhìn nhận cuộc sống.
 Tôi không mang đến những điều gây tranh cãi, mà thay vào đó, điều này khiến tôi tự đặt câu hỏi rộng hơn về bản chất của sự tồn tại và cuộc sống, bản chất của sự vật. Thật ngạc nhiên, chúng đơn giản và sâu sắc đến không ngờ…
 
-Đặc biệt, trong triết lý phương Đông, họ không cần đến các phương trình lý thuyết hay mô phỏng để chữa bệnh, hoặc để thích nghi với tự nhiên, làm sao họ có thể làm được điều đó?
+> Đặc biệt, trong triết lý phương Đông, họ không cần đến các phương trình lý thuyết hay mô phỏng để chữa bệnh, hoặc để thích nghi với tự nhiên, làm sao họ có thể làm được điều đó?
 
 Cách họ định nghĩa và tương tác với tự nhiên rất khác biệt!
 Các phương pháp họ sử dụng cũng khác biệt rất khác biệt!
@@ -145,11 +145,11 @@ Tôi tự hỏi liệu khoa học phương Tây có đang bị bỏ lại sau s�
 Các nhà khoa học lý thuyết đã cố gắng hết sức nhưng không thể bắt kịp với các AI lớn.
 Thật vậy, công nghệ thường đi kèm với ưu và nhược điểm. Nếu chúng ta tiếp tục theo các cách tiếp cận thông thường và cố gắng chứng minh và xây dựng công thức cho các hệ thống sau khi chúng đã được sử dụng rộng rãi thì khoa học lý thuyết có thể sẽ bị mắc kẹt và có thể bị bỏ lại sau thực tế. Như vậy, cách tiếp cận này có thể sẽ không còn hiệu quả đối với những công nghệ mạnh mẽ mới nổi như AI, sự biến đổi nhanh của kinh tế và môi trường.
 
-Một câu hỏi đến được đặt ra là: Chúng ta liệu có thể chứng minh và xây dựng công thức cho mọi thứ liên quan đến sự thông minh có tính động cao và phát triển nhanh chóng cũng như biến đổi khí hậu không?
+> Một câu hỏi đến được đặt ra là: Chúng ta liệu có thể chứng minh và xây dựng công thức cho mọi thứ liên quan đến sự thông minh có tính động cao và phát triển nhanh chóng cũng như biến đổi khí hậu không?
 
-Nếu chúng ta không thể đi sâu vào bản chất/gốc rễ của các vấn đề, thì chúng ta khó có thể nhìn thấy bức tranh tổng thể.
+> Nếu chúng ta không thể đi sâu vào bản chất/gốc rễ của các vấn đề, thì chúng ta khó có thể nhìn thấy bức tranh tổng thể.
 
-Một cách tiếp cận mới có thể nổi lên từ kinh nghiệm cá nhân, Khoa học Phương Đông như là khoa học cân bằng đang nổi lên:
+#### Một cách tiếp cận mới có thể nổi lên từ kinh nghiệm cá nhân, Khoa học Phương Đông như là khoa học cân bằng đang nổi lên:
 
 * Một sự vật có thể được nhìn từ nhiều góc độ, khía cạnh nhưng có thể hiểu được, do đó chúng ta cần tập trung vào các **Nguyên nhân Gốc Rễ** chứ không chỉ ở Phần Bề mặt
 * Chúng ta không nên chỉ tập trung Lý thuyết (có thể xa rời thực tiễn) mà cần nhìn vào **Bằng chứng và Kinh nghiệm Thực tiễn**
