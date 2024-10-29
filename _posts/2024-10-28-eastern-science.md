@@ -71,7 +71,7 @@ Indeed, technologies often come with pros and cons. If we keep the conventional 
 
 > If we could not go deeper into the nature/roots of problems itself, we hardly see the overview picture as a whole.
 
-#### A new approach may emerge from my experience that I named Eastern Science as emerging Balance Science:
+### A new approach may emerge from my experience that I named Eastern Science as emerging Balance Science:
 - A thing could be seen from many views, and angles but can be understandable, hence we concentrate also on the **Root Causes** not only the Top
 - We should not look up to the Theoretical Theory (could be far from practice) and look down to the **Practical Confidential Evidence and Experience**
 - **Open Mindset** and Accept the nonsense to nurture creativity and innovation since we don't know what we don't know due to our limited senses and perspectives
@@ -81,7 +81,7 @@ Indeed, technologies often come with pros and cons. If we keep the conventional 
 
 Wish you will find the proper approaches for your lives.
 
-##### !!! This is based on my PERSONAL EXPLORATION not represent for the others !
+#### !!! This is based on my PERSONAL EXPLORATION not represent for the others !
 
 --
 Chỉnh sửa từ Hỗ trợ Dịch Tiếng Việt bởi ChatGPT
@@ -112,7 +112,7 @@ Và các mối liên kết giữa chúng thì khá mờ nhạt…
 
 *(Một lần nữa, tôi sẽ không mô tả thêm, vì kinh nghiệm và năng lực hạn chế của tôi không thể đại diện cho người khác).*
 
-#### Một bước tiến xa hơn
+### Một bước tiến xa hơn
 
 Cuối cùng, điều này dẫn tôi đến những lĩnh vực hoàn toàn mới mà ngày nay khoa học thường bỏ qua, như kiến thức triết lý cổ xưa. Bước tiến này đưa tôi vào một hành trình dài để học và có cái nhìn sơ bộ vào cách người xưa nhìn nhận cuộc sống.
 Tôi không mang đến những điều gây tranh cãi, mà thay vào đó, điều này khiến tôi tự đặt câu hỏi rộng hơn về bản chất của sự tồn tại và cuộc sống, bản chất của sự vật. Thật ngạc nhiên, chúng đơn giản và sâu sắc đến không ngờ…
@@ -149,7 +149,7 @@ Thật vậy, công nghệ thường đi kèm với ưu và nhược điểm. N�
 
 > Nếu chúng ta không thể đi sâu vào bản chất/gốc rễ của các vấn đề, thì chúng ta khó có thể nhìn thấy bức tranh tổng thể.
 
-#### Một cách tiếp cận mới có thể nổi lên từ kinh nghiệm cá nhân, Khoa học Phương Đông như là khoa học cân bằng đang nổi lên:
+### Một cách tiếp cận mới có thể nổi lên từ kinh nghiệm cá nhân, Khoa học Phương Đông như là khoa học cân bằng đang nổi lên:
 
 * Một sự vật có thể được nhìn từ nhiều góc độ, khía cạnh nhưng có thể hiểu được, do đó chúng ta cần tập trung vào các **Nguyên nhân Gốc Rễ** chứ không chỉ ở Phần Bề mặt
 * Chúng ta không nên chỉ tập trung Lý thuyết (có thể xa rời thực tiễn) mà cần nhìn vào **Bằng chứng và Kinh nghiệm Thực tiễn**
