@@ -39,9 +39,8 @@ I wish I would not touch many constroversial things but instead, this let me que
 
 Especially in Eastern philosophies, they don't need theoretical equations or simulations to cure people, or adapt to nature, how could they do that?
 
-How different are they defined and interacted with nature?
-
-How different are the approaches they used?
+How different are they defined and interacted with nature!
+How different are the approaches they used!
 
 Most of them are still magically nonsense to nowadays science.!
 
@@ -53,6 +52,7 @@ But in Eastern approaches, it seems we need great masters to instruct us to unde
 The Eastern approaches seem to accept heuristic approaches based on confidential experience leading to practical results rather than proving by theoretical equations. 
 
 Eastern approaches ask us to live deeply based on humanity's ethics, unselfishness, goodness, and wisdom based on causal effects. It reminds us we are a part of wholeness, and thus need to respect nature, ecosystems, harmony living, sharing community, totality, unification, and peace.
+
 *(Again. I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Eastern Science
