@@ -31,7 +31,7 @@ It seems I started living with two different views of life such as sense beauty 
 > Being a little artistic scientist enables me to start viewing things with a more Open Mindset. 
 
 This journey finally comes with a new idea for the philosophy of democratized learning including sense-nonsense reasons. 
-I extended my journey to philosophy and looked for analogies from physics, biology, and chemistry patterns to explore what actual system behaviors of distributed AIs.
+I extended my journey to other philosophies and looked for analogies from physics, biology, and chemistry patterns to explore what actual system behaviors of distributed AIs.
 I learned there we have a complex biological world, complex chemical reactions, and physical laws. Going deeper, anyone could realize many magical, amazing, intelligent physiologies, chains, and patterns in nature everywhere. 
 And the links among them are quite blurred... 
 
