@@ -37,10 +37,15 @@ And the links are so blurred...
 It finally led me to whole new areas that nowadays science often leaves behind such as ancient knowledge and philosophy. This leap takes me a long journey to learn and glimpse into how ancients view life.
 I wish I would not touch many constroversial things but instead, this let me question more broadly about the nature of existing and life, the nature of things. Surprisingly, How simple and deep they are...
 
-Especially in Eastern philosophies, they don't need equations or experiments to cure people, how they can do that?
+Especially in Eastern philosophies, they don't need theoretical equations or simulations to cure people, or adapt to nature, how could they do that?
+
 How different are they defined and interacted with nature?
+
 How different are the approaches they used?
+
 Most of them are still magically nonsense to nowadays science.!
+
+*(Again. I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Eastern Approach
 At first, I hardly saw things in Eastern way according to nowadays Western science. Seems, that a lot of beliefs and unexplained results are available to the public and could be nonsense totally.
