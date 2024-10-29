@@ -14,7 +14,7 @@ Since I was young and working towards PhD program, understanding powerful scient
   * I started applying theories to the research to get good publication according to normal high-quality research standards
 
 Soon, I realized the big gap between my research and the daily reality and starting wonder about the meaning and practical senses. I started looking for stronger theories and extending the research problem to bring it to more complicated scenarios but still a tremendous gap compared to the actual systems. But soon, publication race became more important to science rather than discovering the actual causes of things. This is not because we are lazy but it is somehow related to the many unsolvable limitations within the approaches themselves or time/budget limitations as well. 
-(I would not describe further, since my limited experience and capability could not represent others).
+*(I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Adventure to explore different views of life
 But from my inner understanding, I would love to find other ways to see things differently or deeper...
@@ -46,17 +46,19 @@ But in Eastern approaches, it seems we need great masters to instruct us to unde
 The Eastern approaches seem to accept heuristic approaches based on confidential experience leading to practical results rather than proving by theoretical equations. 
 
 Eastern approaches ask us to live deeply based on humanity's ethics, unselfishness, goodness, and wisdom based on causal effects. It reminds us we are a part of wholeness, and thus need to respect nature, ecosystems, harmony living, sharing community, totality, unification, and peace.
-(Again. I would not describe further, since my limited experience and capability could not represent others).
+*(Again. I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Eastern Science
 Last but not least, this final part is the main motivation for this blog.
+
 I am here in the USA, looking at the recent great success of AI. Many big plans and investments for applying AI into normal lives, but also raise a lot of visible/invisible concerns. 
 I wonder if Western science is left behind the fast-growing Large AIs towards the big things like AGI (artificial general intelligence). 
 Theoretical scientists tried their best but could not catch the big AIs.
 Indeed, technologies often come with pros and cons. If we keep the conventional fashions and try to prove and formulate systems after their wide usage, theoretical science seems to be stuck and could be left behind the reality. So, it will be an ineffective responsibility for the emerging powerful technologies such as AI. 
-A question came to me: Can we prove, and formulate everything regarding highly dynamic and fast-ever-evolved intelligence as well as climate changes?
-If we could not go deeper into the nature/roots of problems itself, we hardly see the overview picture as a whole.
 
+A question came to me: Can we prove, and formulate everything regarding highly dynamic and fast-ever-evolved intelligence as well as climate changes?
+
+If we could not go deeper into the nature/roots of problems itself, we hardly see the overview picture as a whole.
 A new approach may emerge from my experience:
 - A thing could be seen from many views, and angles but can be understandable when we concentrate more on the root causes not only the top
 - We should not look up to the Theoretical Theory (far from practice) and look down to the Practical Confidential Evidence and Experience
@@ -65,5 +67,8 @@ A new approach may emerge from my experience:
 - After all, we need a Systematic Effective Approach regarding both sense and nonsense toward Ultimate, Practical, Collective Efficiency (E.g.: our balanced body, earth's ecosystem, ultimate social welfare, and global peace)
 - Be aware and Reject False Beliefs without any Confidential Evidence or Experience, Not based on Casual Effect since Nonsense includes many of them and unwanted consequences.
 
+Wish we will find the proper for our lives.
+
+##### !!! This is based on my PERSONAL EXPLORATION not represent for the others !
 
 
