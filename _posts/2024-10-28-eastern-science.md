@@ -5,6 +5,9 @@ permalink: /posts/2024/10/blog-post-1/
 tags:
   - Eastern Science
 ---
+
+## Brief Discussion of Emerging Eastern Science ##
+
 ##### !!! This is based on my PERSONAL EXPLORATION not represent for the others !
 ##### !!! Bài viết dựa trên khám phá cá nhân không đại diện cho những nhà nghiên cứu khá !
 
