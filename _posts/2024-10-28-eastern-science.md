@@ -31,11 +31,31 @@ And the links are blurred...
 (Again. I would not describe further, since my limited experience and capability could not represent others).
 
 ### Another leap coming
-It finally lead me to a whole new areas that nowadays science often leave behind about accient knowledges and philosophy. This leap take me a long journey to learn and glimpse on how accients view of life.
+It finally lead me to whole new areas that nowadays science often leave behind such as accient knowledge and philosophy. This leap take me a long journey to learn and glimpse on how accients view of life.
 I wish I would not touch many constroversial things but instead this let me question more broadly about the nature of existing and life, the nature of things. Surprisingly, How simple and deep they are...
 
 Especially in Eastern philosophies, they don't need equations or experiments to cure people, how they can do that?
 How difference they defined and interactd with the nature?
 How difference approaches they used?
 Most of them are magically nonsense to nowadays science?
+
+### Eastern Approach
+At first, I hardly to see things in Eastern way according to nowadays Western science. Seems, a lot of beliefs and unexplained results are available the public and could be nonsense totally.
+But in Eastern approaches, it seems we need great master to help us understand the deep mechanism behind the seen. Seems unseen, unawared mechanisms affect strongly many seen mechanisms.
+The Eastern approaches seems accept heuristic approaches lead to practical results rather than proving by equations. 
+
+Eastern approaches ask us to be living deeply based on the humanity ethics and casual effects. Remind us to respect nature, ecosystems and sharing community.
+(Again. I would not describe further, since my limited experience and capability could not represent others).
+
+### Eastern Science
+Last but not least, this final part is the main motivation for this blog.
+I am here in USA, looking at the great success of AI. Many big plans for applying AI into normal lives also raise a lot of visible/invisible concerns. 
+I wonder Western science is left behind the fast-growing Large AIs towards the big things like AGI (artificial general intelligence). 
+Theoretical science tried all of their efforts but could not catch the big AIs.
+Indeed, technologies often come with pros and cons. If we keep the old fashions try to prove things after its widely usage, science seems be left behind. So, it will be ineffective responsibility for the emerging powerful technologies such as AI. 
+A question come to me? Can we prove everything regarding highly-dynamic and fast-ever evolved intelligence?
+If we not go to the nature/roots of problems itself, we hardly to see the big picture of the whole.
+
+
+
 
