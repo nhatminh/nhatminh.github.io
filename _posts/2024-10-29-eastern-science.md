@@ -1,6 +1,6 @@
 ---
 title: 'Brief Discussion of Emerging Eastern Science'
-date: 2024-10-28
+date: 2024-10-29
 permalink: /posts/2024/10/blog-post-1/
 tags:
   - Eastern Science
@@ -51,8 +51,8 @@ Most of them are still magically nonsense to nowadays science.!
 *(Again. I would not describe further, since my limited experience and capability could not represent others).*
 
 ### Eastern Approach
-At first, I hardly saw things in Eastern way according to nowadays Western science. Seems, that a lot of beliefs and unexplained results are available to the public and could be nonsense totally.
-But in Eastern approaches, it seems we need great masters to instruct us to understand the deep mechanism behind the scenes (luckily, I found great masters). Seems unseen, unaware mechanisms could affect strongly many seen mechanisms. Since untold philosophies are hidden from the publicity as well for many reasons. 
+At first, I hardly saw things in the Eastern ways according to nowadays Western science. Seems, that a lot of beliefs and unexplained results are available to the public and could be nonsense totally.
+But to approach the essence of Eastern philosophies, it seems we need instruction from great masters to understand the deep mechanism behind the scenes (luckily, I found great masters). Seems unseen, unaware mechanisms could affect strongly many seen mechanisms. Since untold philosophies are hidden from the publicity as well for many reasons. 
 The Eastern approaches seem to accept heuristic approaches based on confidential experience leading to practical results rather than proving by theoretical equations. 
 
 Eastern approaches ask us to live deeply based on humanity's ethics, unselfishness, goodness, and wisdom based on causal effects. It reminds us we are a part of wholeness, and thus need to respect nature, ecosystems, harmony living, sharing community, totality, unification, and peace.
@@ -129,7 +129,7 @@ Hầu hết những điều này vẫn là điều kỳ diệu chưa thể giả
 ### Phương pháp tiếp cận phương Đông
 
 Lúc đầu, tôi khó mà nhìn nhận mọi thứ theo cách phương Đông theo tiêu chuẩn khoa học phương Tây ngày nay. Có vẻ như có nhiều niềm tin và kết quả chưa được giải thích tồn tại trong cộng đồng.
-Nhưng trong các phương pháp phương Đông, dường như chúng ta cần các vị thầy giỏi để hướng dẫn chúng ta hiểu cơ chế sâu xa đằng sau (may mắn là tôi đã tìm thấy các vị thầy tuyệt vời). Có vẻ như các cơ chế không thấy được, không nhận thức được có thể tác động mạnh mẽ lên nhiều cơ chế thấy được. Vì nhiều lý do, triết lý này không công khai với công chúng.
+Nhưng để tiếp cận tinh hoa của các phương pháp phương Đông, dường như chúng ta cần các vị thầy giỏi để hướng dẫn chúng ta hiểu cơ chế sâu xa đằng sau (may mắn là tôi đã tìm thấy các vị thầy tuyệt vời). Có vẻ như các cơ chế không thấy được, không nhận thức được có thể tác động mạnh mẽ lên nhiều cơ chế thấy được. Vì nhiều lý do, triết lý này không công khai với công chúng.
 Các phương pháp phương Đông có vẻ chấp nhận các cách tiếp cận thực tiễn dựa trên Kinh Nghiệm Đáng Tin Cậy dẫn đến kết quả thực tế thay vì chứng minh bằng phương trình lý thuyết.
 
 Phương pháp phương Đông khuyến khích chúng ta sống một cách sâu sắc dựa trên đạo đức nhân loại, sự không ích kỷ, lòng tốt, và trí tuệ dựa trên nhân quả. Nó nhắc nhở chúng ta rằng chúng ta là một phần của toàn thể, do đó cần tôn trọng thiên nhiên, hệ sinh thái, sống hài hòa, chia sẻ cộng đồng, sự tổng thể, thống nhất, và hòa bình.
