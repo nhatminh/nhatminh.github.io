@@ -57,25 +57,28 @@ Working Experience
   
 Selected Publications
 ======
+### 2025
+1. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Accepted in Neural Computing and Applications
+2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024, [Arxiv](https://arxiv.org/abs/2401.11647) 
+3. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2401.13898)
+4. "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2407.15426)
+5. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2024 
+
+   
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
 Volume 133, Part B, 2024, [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624002513?via%3Dihub)
 2. Nguyen, Loc X., Ye Lin Tun, Yan Kyaw Tun, **Minh N. H. Nguyen**, Chaoning Zhang, Zhu Han, and Choong Seon Hong. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", *IEEE Transactions on Vehicular Technology*, vol. 73, no. 6, pp. 8957-8972, June 2024, [Arxiv](https://arxiv.org/abs/2307.03402), [IEEE](https://ieeexplore.ieee.org/document/10423076)
 3. Huynh Thi Thanh Binh, Nguyen Thi Hanh, Nguyen Phuc Tan, La Van Quan, Dang The Ngoc, **Nguyen Huu Nhat Minh**, Huynh Cong Phap, "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", *Evolutionary Intelligence*, April 2024, [Link](https://link.springer.com/article/10.1007/s12065-024-00916-9)
-4. Huy Le, **Minh N. H. Nguyen**, Chu Myaet Thwal, Yu Qiao, Chaoning Zhang, and Choong Seon Hong. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Accepted in Neural Networks*, 2024, [Arxiv](https://arxiv.org/abs/2307.13214)
-5. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", *Accepted in Applied Intelligence*, October 2024
+4. Huy Le, **Minh N. H. Nguyen**, Chu Myaet Thwal, Yu Qiao, Chaoning Zhang, and Choong Seon Hong. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Accepted in Neural Networks*, Dec. 2024,[Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024009468?via%3Dihub), [Arxiv](https://arxiv.org/abs/2307.13214)
+5. "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", *Accepted in Applied Intelligence*, Dec. 2024
 6. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted in 2024
 7. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted in 2024, [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
-8. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Major Revision in Neural Computing and Applications
-9. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024, [Arxiv](https://arxiv.org/abs/2401.11647) 
-10. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2401.13898)
-11. "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2407.15426)
-12. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2024 
-13. Trung Le, Vinh Nguyen, Hung Phan, and *Minh Nguyen*. "Multi-Task Learning Model for Detecting and Filtering Internet Violent Images for Children", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 18-24, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1261)
-14. Doan Nguyen, Anh Tran, Nam Vo, Tien Nguyen, Tuyen Le, Vuong Nguyen, and **Minh Nguyen**. "DaNangVMD: Vietnamese Speech Mispronunciation Detection", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 49-55, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1271)
-15. Nguyen Ket Doan, Nguyen Tran Tien, Nguyen Duc Bao, Ton That Ron, Vo Van Nam, Pham Van Nam, Phung Anh Sang, Huynh Cong Phap, **Nguyen Huu Nhat Minh**. "DaNangNLP Toolkit for Vietnamese Text Preprocessing and Word Segmentation", *in Proceedings of CITA 2024*   
-16. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, **Nguyen Huu Nhat Minh**. "Identify Problems of Electrical Insulators using Multi-Task Learning", *in Proceedings of CITA 2024*
-17. **Minh N. H. Nguyen** et. al "A Hybrid Learning of Lexical and Language Processing for Domain Credibility Classification", *in Proceedings of ATC 2024*
+8. Trung Le, Vinh Nguyen, Hung Phan, and *Minh Nguyen*. "Multi-Task Learning Model for Detecting and Filtering Internet Violent Images for Children", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 18-24, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1261)
+9. Doan Nguyen, Anh Tran, Nam Vo, Tien Nguyen, Tuyen Le, Vuong Nguyen, and **Minh Nguyen**. "DaNangVMD: Vietnamese Speech Mispronunciation Detection", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 49-55, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1271)
+10. Nguyen Ket Doan, Nguyen Tran Tien, Nguyen Duc Bao, Ton That Ron, Vo Van Nam, Pham Van Nam, Phung Anh Sang, Huynh Cong Phap, **Nguyen Huu Nhat Minh**. "DaNangNLP Toolkit for Vietnamese Text Preprocessing and Word Segmentation", *in Proceedings of CITA 2024*   
+11. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, **Nguyen Huu Nhat Minh**. "Identify Problems of Electrical Insulators using Multi-Task Learning", *in Proceedings of CITA 2024*
+12. **Minh N. H. Nguyen** et. al "A Hybrid Learning of Lexical and Language Processing for Domain Credibility Classification", *in Proceedings of ATC 2024*
     
 ### 2023
 1. Thwal Chu Myaet, **Minh N. H. Nguyen**, Ye Lin Tun, Seong Tae Kim, My T. Thai, and Choong Seon Hong. "OnDev-LCT: On-Device Lightweight Convolutional Transformers Towards Federated Learning." *Neural Networks*, Volume 170, Pages 635-649, Feb. 2024, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006676), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437065)
