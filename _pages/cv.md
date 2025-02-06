@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/40416edc-9284-4bb4-b3d0-06379b6fcf68)---
 layout: archive
 title: "Dr. Minh N. H. Nguyen's CV"
 permalink: /cv/
@@ -54,7 +54,25 @@ Working Experience
 
 * 2012: **Internship student**
   * PosTech University, South Korea.
-  
+
+Projects 
+======
+1. TỐI ƯU BAO PHỦ ĐỐI TƯỢNG ĐẢM BẢO KẾT NỐI VÀ KÉO DÀI THỜI GIAN SỐNG TRONG MẠNG CẢM BIẾN KHÔNG DÂY ỨNG DỤNG TRONG TRIỂN KHAI HỆ THỐNG IOT (Optimal Object Coverage Ensuring Connectivity and Prolonging Network Lifetime in Wireless Sensor Networks Applied in IoT Deployment), Ministry of Education and Training B2023.DNA.13, Member, 2023-2024
+2. Phát Triển Trợ Lý Ảo Thông Minh Hỗ Trợ Tìm Kiếm Và Giới Thiệu Việc Làm Công Nghệ Thông Tin Dựa Trên Xử Lý Ngôn Ngữ Tự Nhiên (Develop Virtual Assistant for Job Recommendation using Natural Language Processing), Univ. Project ĐHVH-2023-01, Project Investigator, 2024  
+
+Patents
+======
+1. Energy Efficient Wi-Fi Management for Smart Devices (P2013329-01-KR_IP130072N), South Korea, 2014
+
+Awards
+======
+1. Best PhD Thesis Award, 2020, Kyung Hee University, South Korea
+2. Individuals with outstanding publications in 2024, University of Danang
+3. Individuals with outstanding publications in 2023, University of Danang
+4. Outstanding paper publication in prestigious journals and conferences, 2023, Danang city
+5. Best paper Awards at KSC 2016, KCC 2017, JOK 2018, and KSC 2019 conferences 
+
+
 Selected Publications
 ======
 ### 2025
@@ -67,7 +85,7 @@ Selected Publications
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
-Volume 133, Part B, 2024, [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624002513?via%3Dihub)
+Volume 133, Part B, 2024, [Arxiv](https://arxiv.org/abs/2204.01542), [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624002513?via%3Dihub)
 2. Nguyen, Loc X., Ye Lin Tun, Yan Kyaw Tun, **Minh N. H. Nguyen**, Chaoning Zhang, Zhu Han, and Choong Seon Hong. "Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity", *IEEE Transactions on Vehicular Technology*, vol. 73, no. 6, pp. 8957-8972, June 2024, [Arxiv](https://arxiv.org/abs/2307.03402), [IEEE](https://ieeexplore.ieee.org/document/10423076)
 3. Huynh Thi Thanh Binh, Nguyen Thi Hanh, Nguyen Phuc Tan, La Van Quan, Dang The Ngoc, **Nguyen Huu Nhat Minh**, Huynh Cong Phap, "A heuristic node placement strategy for extending network lifetime and ensuring target coverage in mobile wireless sensor networks", *Evolutionary Intelligence*, April 2024, [Link](https://link.springer.com/article/10.1007/s12065-024-00916-9)
 4. Huy Le, **Minh N. H. Nguyen**, Chu Myaet Thwal, Yu Qiao, Chaoning Zhang, and Choong Seon Hong. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Accepted in Neural Networks*, Dec. 2024,[Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024009468?via%3Dihub), [Arxiv](https://arxiv.org/abs/2307.13214)
