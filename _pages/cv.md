@@ -28,7 +28,7 @@ Working Experience
     * AI assistants, Personalized AIs
     * Intelligent UAV Networks, Network Optimization
       
-* 09/2024-11/2024: Visiting Scholars at Indiana University South Bend, USA
+* 09/2024-11/2024: **Visiting Scholar** at Indiana University South Bend, USA
         
 * 2022-2023: **In Charge of Research Program** at Digital Science and Technology Institute (eSTI), VKU 
   * Leading Research Group of Intelligent Systems in (eSTI), VKU
