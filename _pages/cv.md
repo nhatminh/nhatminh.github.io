@@ -70,7 +70,8 @@ Awards
 2. Individuals with outstanding publications in 2024, University of Danang
 3. Individuals with outstanding publications in 2023, University of Danang
 4. Outstanding paper publication in prestigious journals and conferences, 2023, Danang city
-5. Best paper Awards at KSC 2016, KCC 2017, JOK 2018, and KSC 2019 conferences 
+5. Best paper Awards at KSC 2016, KCC 2017, JOK 2018, and KSC 2019 conferences
+6. Instructor certificates for student research, innovation competitions
 
 
 Selected Publications
