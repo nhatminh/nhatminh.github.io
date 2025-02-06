@@ -58,7 +58,10 @@ Working Experience
 Projects 
 ======
 1. TỐI ƯU BAO PHỦ ĐỐI TƯỢNG ĐẢM BẢO KẾT NỐI VÀ KÉO DÀI THỜI GIAN SỐNG TRONG MẠNG CẢM BIẾN KHÔNG DÂY ỨNG DỤNG TRONG TRIỂN KHAI HỆ THỐNG IOT (Optimal Object Coverage Ensuring Connectivity and Prolonging Network Lifetime in Wireless Sensor Networks Applied in IoT Deployment), Ministry of Education and Training, B2023.DNA.13, Member, 2023-2024
-2. Phát Triển Trợ Lý Ảo Thông Minh Hỗ Trợ Tìm Kiếm Và Giới Thiệu Việc Làm Công Nghệ Thông Tin Dựa Trên Xử Lý Ngôn Ngữ Tự Nhiên (Develop Virtual Assistant for Job Recommendation using Natural Language Processing), Univ. Project, ĐHVH-2023-01, Project Investigator, 2024  
+2. Phát Triển Trợ Lý Ảo Thông Minh Hỗ Trợ Tìm Kiếm Và Giới Thiệu Việc Làm Công Nghệ Thông Tin Dựa Trên Xử Lý Ngôn Ngữ Tự Nhiên (Develop Virtual Assistant for Job Recommendation using Natural Language Processing), University Project, ĐHVH-2023-01, Project Investigator, 2024
+3. Hybrid Learning based Abusive Website Detection, Joint Research with Vietnam Internet Network Information Center (VNNIC), 2024
+4. Deep Learning based Detection for Common Ear, Nose and Throat (ENT) Disorders using Endoscopic Images, Joint Research with Phan Chau Trinh Medical University, 2024
+5. Phát hiện và khoanh vùng dịch bệnh cây cà phê lên bản đồ số của tỉnh Kon Tum (Coffee plant diseases Detection and Localization on digital maps of Kon Tum Province), 2024
 
 Patents
 ======
