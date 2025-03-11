@@ -85,7 +85,7 @@ Selected Publications
 3. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Minor Revision in Neural Computing and Applications
 4. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
 5. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2401.13898)
-6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 
+6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2501.08521)
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
