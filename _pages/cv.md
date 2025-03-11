@@ -81,11 +81,11 @@ Selected Publications
 ======
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", *Accepted in Applied Intelligence*, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
-2. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Accepted in Neural Computing and Applications
-3. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2024, [Arxiv](https://arxiv.org/abs/2401.11647) 
-4. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2401.13898)
-5. "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Submitted in 2024 [Arxiv](https://arxiv.org/abs/2407.15426)
-6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2024 
+2. "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Accepted in IEEE Internet of Things Journal, 2025, [Arxiv](https://arxiv.org/abs/2407.15426)
+3. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Minor Revision in Neural Computing and Applications
+4. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
+5. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2401.13898)
+6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
