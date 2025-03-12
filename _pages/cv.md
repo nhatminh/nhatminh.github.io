@@ -86,7 +86,10 @@ Selected Publications
 4. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
 5. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2401.13898)
 6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2501.08521)
-7. Minh N. H. Nguyen et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
+7. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
+8. "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", Submitted in 2025
+9. "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", Submitted in 2025
+10. "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", Submitted in 2025
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
@@ -96,7 +99,7 @@ Volume 133, Part B, 2024, [Arxiv](https://arxiv.org/abs/2204.01542), [Paper](htt
 4. Huy Le, **Minh N. H. Nguyen**, Chu Myaet Thwal, Yu Qiao, Chaoning Zhang, and Choong Seon Hong. "FedMEKT: Distillation-based Embedding Knowledge Transfer for Multimodal Federated Learning", *Accepted in Neural Networks*, Dec. 2024,[Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024009468?via%3Dihub), [Arxiv](https://arxiv.org/abs/2307.13214)
 5. "Hybrid Data-Centric and Model-Centric Approach for Robustness Single-Lead ECG Obstructive Sleep Apnea Diagnosis", Submitted in 2024
 6. "Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis", Submitted in 2024, [TechRxiv](https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829)
-7. Trung Le, Vinh Nguyen, Hung Phan, and *Minh Nguyen*. "Multi-Task Learning Model for Detecting and Filtering Internet Violent Images for Children", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 18-24, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1261)
+7. Trung Le, Vinh Nguyen, Hung Phan, and **Minh Nguyen**. "Multi-Task Learning Model for Detecting and Filtering Internet Violent Images for Children", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 18-24, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1261)
 8. Doan Nguyen, Anh Tran, Nam Vo, Tien Nguyen, Tuyen Le, Vuong Nguyen, and **Minh Nguyen**. "DaNangVMD: Vietnamese Speech Mispronunciation Detection", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 49-55, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1271)
 9. Nguyen Ket Doan, Nguyen Tran Tien, Nguyen Duc Bao, Ton That Ron, Vo Van Nam, Pham Van Nam, Phung Anh Sang, Huynh Cong Phap, **Nguyen Huu Nhat Minh**. "DaNangNLP Toolkit for Vietnamese Text Preprocessing and Word Segmentation", *in Proceedings of CITA 2024*   
 10. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, **Nguyen Huu Nhat Minh**. "Identify Problems of Electrical Insulators using Multi-Task Learning", *in Proceedings of CITA 2024*
