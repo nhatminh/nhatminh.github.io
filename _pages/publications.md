@@ -15,6 +15,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 4. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
 5. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2401.13898)
 6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2501.08521)
+7. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
+8. "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", Submitted in 2025
+9. "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", Submitted in 2025
+10. "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", Submitted in 2025
    
 2024
 =====
