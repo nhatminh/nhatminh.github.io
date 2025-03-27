@@ -81,7 +81,7 @@ Selected Publications
 ======
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", *Accepted in Applied Intelligence*, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
-2. Tun, Ye Lin, Chu Myaet Thwal, **Minh NH Nguyen**, and Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Accepted in IEEE Internet of Things Journal, 2025, [Arxiv](https://arxiv.org/abs/2407.15426)
+2. Tun, Ye Lin, Chu Myaet Thwal, **Minh NH Nguyen**, and Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Accepted in IEEE Internet of Things Journal, 2025, [Arxiv](https://arxiv.org/abs/2407.15426), [IEEE](https://ieeexplore.ieee.org/document/10938553)
 3. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Minor Revision in Information Fusion [Arxiv](https://arxiv.org/abs/2401.13898)
 4. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Minor Revision in Neural Computing and Applications
 5. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
