@@ -63,6 +63,12 @@ Projects
 4. **Phát hiện và khoanh vùng dịch bệnh cây cà phê lên bản đồ số của tỉnh Kon Tum** (*Coffee plant diseases Detection and Localization on digital maps of Kon Tum Province*), Kon Tum Province Project, Member, 2024
 5. **Deep Learning based Detection for Common Ear, Nose and Throat (ENT) Disorders using Endoscopic Images**, Joint Research with Phan Chau Trinh Medical University, Member, 2024
 
+KeyNotes
+======
+1. AIM-2024, "Federated Learning: Towards Knowledge Transfer Across Models", [Conf Link] (https://artificialintelligence.unitedscientificgroup.org/)
+2. EAI ADHOCNETS-2023, "Federated Learning: Towards Large-scale Distributed Learning Systems", [Conf Link] (https://adhocnets.eai-conferences.org/)
+3. Workshops, "Federated Learning and Democratized Learning: Towards Large-scale Distributed Learning Systems"
+
 Patents
 ======
 1. Energy Efficient Wi-Fi Management for Smart Devices (P2013329-01-KR_IP130072N), South Korea, 2014
