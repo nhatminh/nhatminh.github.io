@@ -65,8 +65,8 @@ Projects
 
 Keynotes
 ======
-1. AIM-2024, "Federated Learning: Towards Knowledge Transfer Across Models", [Conf Link] (https://artificialintelligence.unitedscientificgroup.org/)
-2. EAI ADHOCNETS-2023, "Federated Learning: Towards Large-scale Distributed Learning Systems", [Conf Link] (https://adhocnets.eai-conferences.org/)
+1. AIM-2024, "Federated Learning: Towards Knowledge Transfer Across Models", [Conf Link](https://artificialintelligence.unitedscientificgroup.org/)
+2. EAI ADHOCNETS-2023, "Federated Learning: Towards Large-scale Distributed Learning Systems", [Conf Link](https://adhocnets.eai-conferences.org/)
 3. Workshops, "Federated Learning and Democratized Learning: Towards Large-scale Distributed Learning Systems"
 
 Patents
