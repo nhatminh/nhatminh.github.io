@@ -88,14 +88,14 @@ Selected Publications
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", *Accepted in Applied Intelligence*, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
 2. Tun, Ye Lin, Chu Myaet Thwal, **Minh NH Nguyen**, and Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Accepted in IEEE Internet of Things Journal, 2025, [Arxiv](https://arxiv.org/abs/2407.15426), [IEEE](https://ieeexplore.ieee.org/document/10938553)
-3. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Minor Revision in Information Fusion [Arxiv](https://arxiv.org/abs/2401.13898)
+3. "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Accepted in Information Fusion [Arxiv](https://arxiv.org/abs/2401.13898)
 4. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Minor Revision in Neural Computing and Applications
 5. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
 6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2501.08521)
 7. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
-8. "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", Submitted in 2025
-9. "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", Submitted in 2025
-10. "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", Submitted in 2025
+8. **Minh N. H. Nguyen** et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*
+9. **Minh N. H. Nguyen** et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*
+10. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
