@@ -88,14 +88,14 @@ Selected Publications
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A Review of Handling Imbalanced Data using Generative Adversarial Networks for Machine Learning Based Software Fault Detection", *Accepted in Applied Intelligence*, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
 2. Ye Lin Tun, Chu Myaet Thwal, **Minh N. H. Nguyen**, Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Accepted in IEEE Internet of Things Journal, 2025, [Arxiv](https://arxiv.org/abs/2407.15426), [IEEE](https://ieeexplore.ieee.org/document/10938553)
-3. Huy Q. Le, Chu Myaet Thwal, Yu Qiao, Ye Lin Tun, **Minh N. H. Nguyen**, Eui-Nam Huh, Choong Seon Hong, "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Accepted in Information Fusion [Arxiv](https://arxiv.org/abs/2401.13898)
+3. Huy Q. Le, Chu Myaet Thwal, Yu Qiao, Ye Lin Tun, **Minh N. H. Nguyen**, Eui-Nam Huh, Choong Seon Hong, "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Accepted in Information Fusion 2025, [Arxiv](https://arxiv.org/abs/2401.13898), [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002921)
 4. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Minor Revision in Neural Computing and Applications
 5. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
 6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2501.08521)
 7. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
 8. **Minh N. H. Nguyen** et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*
 9. **Minh N. H. Nguyen** et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*
-10. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*
+10. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (Indexed by Scopus)*
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
@@ -109,13 +109,12 @@ Volume 133, Part B, 2024, [Arxiv](https://arxiv.org/abs/2204.01542), [Paper](htt
 8. Doan Nguyen, Anh Tran, Nam Vo, Tien Nguyen, Tuyen Le, Vuong Nguyen, and **Minh Nguyen**. "DaNangVMD: Vietnamese Speech Mispronunciation Detection", *in CITA Special issue of Research and Development on Information and Communication Technology*, Vietnam, 49-55, Jun. 2024, [Link](https://ictmag.vn/cntt-tt/article/view/1271)
 9. Nguyen Ket Doan, Nguyen Tran Tien, Nguyen Duc Bao, Ton That Ron, Vo Van Nam, Pham Van Nam, Phung Anh Sang, Huynh Cong Phap, **Nguyen Huu Nhat Minh**. "DaNangNLP Toolkit for Vietnamese Text Preprocessing and Word Segmentation", *in Proceedings of CITA 2024*   
 10. Bui Huy Trinh, Phan Le Viet Hung, Le Kim Hoang Trung, **Nguyen Huu Nhat Minh**. "Identify Problems of Electrical Insulators using Multi-Task Learning", *in Proceedings of CITA 2024*
-11. **Minh N. H. Nguyen** et. al "A Hybrid Learning of Lexical and Language Processing for Domain Credibility Classification", *in Proceedings of ATC 2024*
+11. **Minh N. H. Nguyen** et. al "A Hybrid Learning of Lexical and Language Processing for Domain Credibility Classification", *in Proceedings of ATC 2024*, [Paper](https://ieeexplore.ieee.org/abstract/document/10908153/)
     
 ### 2023
 1. Thwal Chu Myaet, **Minh N. H. Nguyen**, Ye Lin Tun, Seong Tae Kim, My T. Thai, and Choong Seon Hong. "OnDev-LCT: On-Device Lightweight Convolutional Transformers Towards Federated Learning." *Neural Networks*, Volume 170, Pages 635-649, Feb. 2024, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006676), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437065)
 2. Ye Lin Tun, **Minh N. H. Nguyen**, Chu Myaet Thwal, Jinwoo Choi, and Choong Seon Hong, "Contrastive Encoder Pre-Training Based Clustered Federated Learning for Heterogeneous Data", *Neural Networks*, Volume 165, Pages 689-704, Aug. 2023, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023003192), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148978)
 3. **Nguyen Huu Nhat Minh**, Nguyen Ket Doan, Pham Quoc Huy, Kieu Xuan Loc, Hoang Nguyen Vu, Huy Nguyen, Huynh Cong Phap, "Information Technology Skills Extractor for Job Descriptions in vku-ITSkills Dataset using Natural Language Processing", *in Proceeding of CITA 2023, Lecture Notes in Networks and Systems*, vol 734. Springer, July, Danang 2023, [Paper](https://link.springer.com/chapter/10.1007/978-3-031-36886-8_21)
-4. "DaNangVSR: Two-stage Speech Recognition for Vietnamese Mispronunciation Detection", *The 10th International Workshop on Vietnamese Language and Speech Processing (VLSP 2023)*, Hanoi 2023
 
 ### 2022
 1. **Minh N. H. Nguyen**, Shashi Raj Pandey, Tri Nguyen Dang, Eui-Nam Huh, Nguyen H. Tran, Walid Saad, Choong Seon Hong, "Self-organizing democratized learning: Towards large-scale distributed learning systems," *in IEEE Transactions on Neural Networks and Learning Systems*, vol. 34, no. 12, pp. 10698-10710, Dec. 2023. [Arxiv](https://arxiv.org/abs/2007.03278), [IEEE](https://ieeexplore.ieee.org/document/9772065)  
