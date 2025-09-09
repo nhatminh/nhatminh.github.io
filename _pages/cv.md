@@ -93,9 +93,10 @@ Selected Publications
 5. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
 6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025 [Arxiv](https://arxiv.org/abs/2501.08521)
 7. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
-8. **Minh N. H. Nguyen** et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*
-9. **Minh N. H. Nguyen** et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*
-10. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (Indexed by Scopus)*
+8. **Minh N. H. Nguyen**, Anh Tran et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2509.05983)
+9. **Minh N. H. Nguyen**, Anh Tran et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Arxiv](https://arxiv.org/abs/2508.19270) 
+10. **Minh N. H. Nguyen**, Cuong Duong et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*
+11. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (Indexed by Scopus)*
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
