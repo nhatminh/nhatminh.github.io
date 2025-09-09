@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 ## Personal Statement
-As a research scientist, I am passionate about developing sustainable solutions for open practical problems of social benefit in future multi-domain complex systems. Throughout this journey, I have challenged myself with an open mind and explored many emerging domains to find the proper solution approaches. [Google Scholar](https://scholar.google.com/citations?user=tnoge7wAAAAJ)
+As a research scientist, I am passionate about developing sustainable solutions for open practical problems of social benefit in future multi-domain complex systems. Throughout this journey, I have challenged myself with an open mind and explored many emerging domains to find the proper solution approaches. 
+[Google Scholar](https://scholar.google.com/citations?user=tnoge7wAAAAJ)
 
 Education
 ======
