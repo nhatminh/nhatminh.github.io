@@ -82,7 +82,9 @@ Awards
 3. Individuals with outstanding publications in 2022-2023, University of Danang
 4. Outstanding paper publication in prestigious journals, 2023, Da Nang People’s Committee
 5. Best paper Awards at KSC 2016, KCC 2017, JOK 2018, and KSC 2019 conferences
-6. Instructor certificates for national and international student research, innovation competitions
+6. Instructor certificates for national and international student research, innovation competitions: 
++ National Competitions: VietFuture, Eureka, AWRIS, APISI 
++ University of Danang and Danang city : InTE, Student Research in UD and in Danang City 
 
 
 Selected Publications
@@ -91,7 +93,7 @@ Selected Publications
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A comparative study of handling imbalanced data using generative adversarial networks for machine learning based software fault prediction", *Accepted in Applied Intelligence*, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
 2. Ye Lin Tun, Chu Myaet Thwal, **Minh N. H. Nguyen**, Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", Accepted in IEEE Internet of Things Journal, 2025, [Arxiv](https://arxiv.org/abs/2407.15426), [IEEE](https://ieeexplore.ieee.org/document/10938553)
 3. Huy Q. Le, Chu Myaet Thwal, Yu Qiao, Ye Lin Tun, **Minh N. H. Nguyen**, Eui-Nam Huh, Choong Seon Hong, "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Accepted in Information Fusion 2025, [Arxiv](https://arxiv.org/abs/2401.13898), [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002921)
-4. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Minor Revision in Neural Computing and Applications
+4. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Accepted in Neural Computing and Applications
 5. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2401.11647) 
 6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2501.08521)
 7. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
