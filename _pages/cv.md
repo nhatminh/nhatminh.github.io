@@ -83,7 +83,7 @@ Awards
 4. Outstanding paper publication in prestigious journals, 2023, Da Nang People’s Committee
 5. Best paper Awards at KSC 2016, KCC 2017, JOK 2018, and KSC 2019 conferences
 6. Instructor certificates for national and international student research, innovation competitions: 
-+ National Competitions: VietFuture, Eureka, AWRIS, APISI 
++ International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City 
 
 
