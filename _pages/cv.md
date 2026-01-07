@@ -82,9 +82,10 @@ Awards
 3. Individuals with outstanding publications in 2022-2023, University of Danang
 4. Outstanding paper publication in prestigious journals, 2023, Da Nang People’s Committee
 5. Best paper Awards at KSC 2016, KCC 2017, JOK 2018, and KSC 2019 conferences
-6. Instructor certificates for national and international student research, innovation competitions: 
+6. Instructor for national and international student research, innovation competitions: 
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
-+ University of Danang and Danang city : InTE, Student Research in UD and in Danang City 
++ University of Danang and Danang city : InTE, Student Research in UD and in Danang City
++ Youth
 
 
 Selected Publications
@@ -98,9 +99,9 @@ Selected Publications
 6. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2501.08521)
 7. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2025
 8. **Minh N. H. Nguyen**, Anh Tran et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2025, [Arxiv](https://arxiv.org/abs/2509.05983)
-9. **Minh N. H. Nguyen**, Anh Tran et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Arxiv](https://arxiv.org/abs/2508.19270) 
-10. **Minh N. H. Nguyen**, Cuong Duong et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*
-11. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (Indexed by Scopus)*
+9. **Minh N. H. Nguyen**, Anh Tran et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Arxiv](https://arxiv.org/abs/2508.19270),[Link](https://link.springer.com/book/10.1007/978-3-032-00972-2)
+10. **Minh N. H. Nguyen**, Cuong Duong et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Link](https://link.springer.com/book/10.1007/978-3-032-00972-2)
+11. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (Indexed by Scopus)*, [Link](https://link.springer.com/book/10.1007/978-3-032-00972-2)
    
 ### 2024
 1. Huy Q. Le, **Minh N. H. Nguyen**, Shashi Raj Pandey, Chaoning Zhang, Choong Seon Hong. "CDKT-FL: Cross-device knowledge transfer using proxy dataset in federated learning," *Engineering Applications of Artificial Intelligence*,
