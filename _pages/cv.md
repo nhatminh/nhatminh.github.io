@@ -85,8 +85,7 @@ Awards
 6. Instructor/Supervisor for national and international student research, innovation competitions: 
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
-+ National Innovation Youth Award 2025 for Shieldnet Project
-+ Professional Startup Pitching: Top10 VN AI Stars, Top 30 Univenture 2025
++ Professional Startup Pitching: ShieldNet in Top10 VN AI Stars, Top30 Univenture 2025, National Innovation Youth Award 2025 for ShieldNet Project
 
 
 Selected Publications
