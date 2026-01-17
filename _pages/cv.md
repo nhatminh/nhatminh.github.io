@@ -82,10 +82,11 @@ Awards
 3. Individuals with outstanding publications in 2022-2023, University of Danang
 4. Outstanding paper publication in prestigious journals, 2023, Da Nang People’s Committee
 5. Best paper Awards at KSC 2016, KCC 2017, JOK 2018, and KSC 2019 conferences
-6. Instructor for national and international student research, innovation competitions: 
+6. Instructor/Supervisor for national and international student research, innovation competitions: 
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
-+ Youth
++ National Youth Award for Innovation Project (Shieldnet)
++ Professional Startup Pitching: Top10 VN AI Stars, Top 30 Univenture 2025
 
 
 Selected Publications
