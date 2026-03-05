@@ -85,7 +85,9 @@ Awards
 6. Instructor/Supervisor for national and international student research, innovation competitions: 
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
-+ Professional Startup Pitching: ShieldNet in Top10 VN AI Stars, Top30 Univenture 2025, National Innovation Youth Award 2025 for ShieldNet Project
++ Professional Startup Pitching:
+  - ShieldNet in Top10 VN AI Stars, National Innovation Youth Award 2025, Top10 Univenture 2025 got investment
+  - Medipath in Top10 Univenture 2025 got investment
 
 
 Selected Publications
@@ -94,7 +96,7 @@ Selected Publications
 1. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Accepted in Neural Computing and Applications, 2025
 2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
 3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
-4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2026
+4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Major Revision, in 2026
 5. **Minh N. H. Nguyen**, Anh Tran et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
 6. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", Accepted in Springer Nature Computer Science 2026.
 
