@@ -12,7 +12,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 1. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Accepted in Neural Computing and Applications, 2025
 2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
 3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
-4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Submitted in 2026
+4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Major Revision, in 2026
 5. **Minh N. H. Nguyen**, Anh Tran et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
 6. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", Accepted in Springer Nature Computer Science 2026.
 
