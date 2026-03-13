@@ -86,7 +86,7 @@ Awards
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
 + Professional Startup Pitching:
-  - ShieldNet in Top10 VN AI Stars, National Innovation Youth Award 2025, Top10 Univenture 2025 got investment
+  - ShieldNet [shieldnet.vn](https://shieldnet.vn)  in Top10 VN AI Stars, National Innovation Youth Award 2025, Top10 Univenture 2025: 
   - Medipath in Top10 Univenture 2025 got investment
 
 
