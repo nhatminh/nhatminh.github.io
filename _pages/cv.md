@@ -74,6 +74,7 @@ Keynotes
 Patents
 ======
 1. Energy Efficient Wi-Fi Management for Smart Devices (P2013329-01-KR_IP130072N), South Korea, 2014
+2. Method and system for cross-device knowledge transfer using proxy datasets in federated learning, South Korea (10-2945070), 2026
 
 Awards
 ======
