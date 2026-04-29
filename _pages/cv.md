@@ -1,4 +1,4 @@
----
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/243ad622-b55e-4659-aca7-ab8ffb90dd33" />---
 layout: archive
 title: "Dr. Minh N. H. Nguyen's CV"
 permalink: /cv/
@@ -71,7 +71,9 @@ Keynotes & Tutorials
 1. Keynote Speaker in AIM-2024, "Federated Learning: Towards Knowledge Transfer Across Models", [Conf Link](https://artificialintelligence.unitedscientificgroup.org/)
 2. Keynote Speaker in EAI ADHOCNETS-2023, "Federated Learning: Towards Large-scale Distributed Learning Systems", [Conf Link](https://adhocnets.eai-conferences.org/)
 3. Keynote Speaker in Workshops in USAID Partnership for Higher Education Reform project, "Federated Learning and Democratized Learning: Towards Large-scale Distributed Learning Systems"
-4. Tutorial in 
+4. Tutorial for Applied AI in education for board of leaders of high, secondary, primary schools in Danang, Quang Nam, Quang Ngai in 2025. 
+5. Founding ([@InoTechViet](https://www.youtube.com/@InoTechViet/)) Youtube channel for sharing R&D Skills.
+
 
 Patents
 ======
