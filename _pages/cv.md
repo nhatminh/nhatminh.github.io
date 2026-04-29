@@ -22,12 +22,11 @@ Working Experience
 ======
 * 03/2024-now: **Deputy Head of Department of Science, Technology, and International Cooperation**, VKU
   * In Charge of Research Program at Digital Science and Technology Institute (eSTI), VKU
-  * Leading Research Group of Intelligent Systems at eSTI
+  * Leading Research Group of Intelligent Systems & Agentic AI at eSTI
   * Working towards recent hot topics on:
     * Transfer knowledge, multimodal Federated Learning
-    * Applied research on Vietnamese NLP, Speech Recognition
-    * Applied research on Generative AI, Computer Vision
-    * AI assistants, Personalized AIs
+    * Applied research on Vietnamese NLP, Agentic AI
+    * Applied research on Computer Vision, Speech Recognition
     * Intelligent UAV Networks, Network Optimization
       
 * 09/2024-11/2024: **Visiting Scholar** at Indiana University South Bend, USA
@@ -64,12 +63,15 @@ Projects
 3. **Hybrid Learning based Abusive Website Detection**, Joint Research with Vietnam Internet Network Information Center (VNNIC), Member, 2024
 4. **Phát hiện và khoanh vùng dịch bệnh cây cà phê lên bản đồ số của tỉnh Kon Tum** (*Coffee plant diseases Detection and Localization on digital maps of Kon Tum Province*), Kon Tum Province Project, Member, 2024
 5. **Deep Learning based Detection for Common Ear, Nose and Throat (ENT) Disorders using Endoscopic Images**, Joint Research with Phan Chau Trinh Medical University, Member, 2024
+6. **Nghiên cứu và phát triển hệ thống truy xuất tri thức tăng cường cho dữ liệu học tập số** (*R&D of a Retrieval-Augmented Knowledge System for Digital Learning Data*), VKU University Project, Project Investigator, 2026
 
-Keynotes
+
+Keynotes & Tutorials
 ======
-1. AIM-2024, "Federated Learning: Towards Knowledge Transfer Across Models", [Conf Link](https://artificialintelligence.unitedscientificgroup.org/)
-2. EAI ADHOCNETS-2023, "Federated Learning: Towards Large-scale Distributed Learning Systems", [Conf Link](https://adhocnets.eai-conferences.org/)
-3. Workshops, "Federated Learning and Democratized Learning: Towards Large-scale Distributed Learning Systems"
+1. Keynote Speaker in AIM-2024, "Federated Learning: Towards Knowledge Transfer Across Models", [Conf Link](https://artificialintelligence.unitedscientificgroup.org/)
+2. Keynote Speaker in EAI ADHOCNETS-2023, "Federated Learning: Towards Large-scale Distributed Learning Systems", [Conf Link](https://adhocnets.eai-conferences.org/)
+3. Keynote Speaker in Workshops in USAID Partnership for Higher Education Reform project, "Federated Learning and Democratized Learning: Towards Large-scale Distributed Learning Systems"
+4. Tutorial in 
 
 Patents
 ======
@@ -87,18 +89,19 @@ Awards
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
 + Professional Startup Pitching:
-  - ShieldNet ([shieldnet.vn](https://shieldnet.vn))  in Top10 VN AI Stars, National Innovation Youth Award 2025, Top10 Univenture 2025: 
-  - Medipath in Top10 Univenture 2025 got investment
+  - ShieldNet,AI based abuse web detection platform ([shieldnet.asia](https://shieldnet.asia))  in Top10 VN AI Stars, National Innovation Youth Award 2025, Top10 Univenture 2025: 
+  - Medipath, AI based healthcare platform ([medipath.asia](https://medipath.asia/en)) in Top10 Univenture 2025
+  - CoResearch, Agentic Deep Research Platform ([coresearch.asia](https://coresearch.asia)) 
 
 
 Selected Publications
 ======
 ### 2026
-1. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Accepted in Neural Computing and Applications, 2025
+1. Ha Thi Minh Phuong, Vu Thu Nguyet Pham, **Huu Nhat Minh Nguyen**, Thi My Hanh Le, John Healy, and Thanh Binh Nguyen "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Neural Computing and Applications 38, no. 6 (2026): 165, [Paper](https://link.springer.com/article/10.1007/s00521-025-11771-9)
 2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
 3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
 4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Major Revision, in 2026
-5. **Minh N. H. Nguyen**, Anh Tran et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
+5. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
 6. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", Accepted in Springer Nature Computer Science 2026.
 
    
