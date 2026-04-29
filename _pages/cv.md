@@ -1,4 +1,4 @@
-<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/243ad622-b55e-4659-aca7-ab8ffb90dd33" />---
+---
 layout: archive
 title: "Dr. Minh N. H. Nguyen's CV"
 permalink: /cv/
