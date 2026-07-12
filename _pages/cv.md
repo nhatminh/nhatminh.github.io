@@ -91,7 +91,8 @@ Awards
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
 + Professional Startup Pitching:
-  - ShieldNet,AI based abuse web detection platform ([shieldnet.asia](https://shieldnet.asia))  in Top10 VN AI Stars, National Innovation Youth Award 2025, Top10 Univenture 2025: 
+  - ShieldNet,AI based abuse web detection platform ([shieldnet.asia](https://shieldnet.asia))in Top10 VN AI Stars 2025, National Innovation Youth Award 2025, Top10 Univenture 2025:
+  - Edumate (https://edumate.id.vn)) - AI assisted Learning Platform in Top10 Finalist VN AI Stars 2026
   - Medipath, AI based healthcare platform ([medipath.asia](https://medipath.asia/en)) in Top10 Univenture 2025
   - CoResearch, Agentic Deep Research Platform ([coresearch.asia](https://coresearch.asia)) 
 
@@ -103,8 +104,9 @@ Selected Publications
 2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
 3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
 4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Major Revision, in 2026
-5. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
-6. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", Accepted in Springer Nature Computer Science 2026.
+5. Thwal Chu Myaet, Ye Lin Tun, **Minh NH Nguyen**, Eui-Nam Huh, and Choong Seon Hong "CLIP-PING: Lightweight CLIP Models with Proximus Intrinsic Neighbors Guidance for Resource-Constrained Vision-Language Systems", Accepted in Neurocomputing, 2026
+6. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
+7. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", Accepted in Springer Nature Computer Science 2026.
 
    
 ### 2025
