@@ -9,23 +9,26 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
 
 2026
 =====
-1. "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Accepted in Neural Computing and Applications, 2025
+1. Ha Thi Minh Phuong, Vu Thu Nguyet Pham, **Huu Nhat Minh Nguyen**, Thi My Hanh Le, John Healy, and Thanh Binh Nguyen "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Neural Computing and Applications 38, no. 6 (2026): 165, [Paper](https://link.springer.com/article/10.1007/s00521-025-11771-9)
 2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
 3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
 4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Major Revision, in 2026
-5. **Minh N. H. Nguyen**, Anh Tran et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
-6. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", Accepted in Springer Nature Computer Science 2026.
+5. Thwal Chu Myaet, Ye Lin Tun, **Minh N.H. Nguyen**, Eui-Nam Huh, and Choong Seon Hong "CLIP-PING: Lightweight CLIP Models with Proximus Intrinsic Neighbors Guidance for Resource-Constrained Vision-Language Systems", Accepted in Neurocomputing, 2026
+6. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
+7. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", SN Computer Science 7, no. 2 (2026): 151. [Link](https://link.springer.com/article/10.1007/s42979-026-04753-8)
+8. "Context-Guided BiomedUNet for Multimodal Kidney Mass Segmentation", Submitted to ACCV, 2026
+9. "A Lightweight URL-HTML Risk Scoring Framework with Confidence-Aware Routing for Phishing Website Detection", Submitted to VNICT2026, 2026
+10. "Are Software Metrics Obsolete in the Era of Code-LLMs? An Empirical Study on Code Smell Detection" has been submitted to Journal of Software", Submitted in 2026
 
-   
 2025
 =====
-1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A comparative study of handling imbalanced data using generative adversarial networks for machine learning based software fault prediction", *Accepted in Applied Intelligence*, J55, 280, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
-2. Ye Lin Tun, Chu Myaet Thwal, **Minh N. H. Nguyen**, Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", IEEE Internet of Things Journal, vol. 12, no. 13, pp. 23207-23221, 1 July1, 2025, doi: 10.1109/JIOT.2025.3554541, [Arxiv](https://arxiv.org/abs/2407.15426), [IEEE](https://ieeexplore.ieee.org/document/10938553)
+1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A comparative study of handling imbalanced data using generative adversarial networks for machine learning based software fault prediction", *Applied Intelligence 55, no. 4 (2025): 280*, J55, 280, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
+2. Ye Lin Tun, Chu Myaet Thwal, **Minh N. H. Nguyen**, Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", IEEE Internet of Things Journal, vol. 12, no. 13, pp. 23207-23221, 1 July, 2025, doi: 10.1109/JIOT.2025.3554541, [Arxiv](https://arxiv.org/abs/2407.15426), [IEEE](https://ieeexplore.ieee.org/document/10938553)
 3. Huy Q. Le, Chu Myaet Thwal, Yu Qiao, Ye Lin Tun, **Minh N. H. Nguyen**, Eui-Nam Huh, Choong Seon Hong, "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Information Fusion, Volume 122, 2025, [Arxiv](https://arxiv.org/abs/2401.13898), [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002921)
 4. **Minh N. H. Nguyen**, Anh Tran et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Arxiv](https://arxiv.org/abs/2508.19270),[Link](https://link.springer.com/book/10.1007/978-3-032-00972-2)
 5. **Minh N. H. Nguyen**, Cuong Duong et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Link](https://link.springer.com/book/10.1007/978-3-032-00972-2)
 6. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of CITA 2025 (Indexed by Scopus)*, [Link](https://link.springer.com/book/10.1007/978-3-032-00972-2)
-7. Doan K. Nguyen, **Minh N. H. Nguyen**, Anh Tran, "Gen-Plan: An Automated Framework for Generalized Planning in Finance Agent", Accepted IEEE Proceedings of DEFI 2025
+7. Doan K. Nguyen, **Minh N. H. Nguyen**, Anh Tran, "Gen-Plan: An Automated Framework for Generalized Planning in Finance Agent", *in 2025 Conference on Digital Economy and Fintech Innovation (DEFI), pp. 229-233. IEEE*, 2025, [Link](https://ieeexplore.ieee.org/abstract/document/11551640/)
    
 2024
 =====
