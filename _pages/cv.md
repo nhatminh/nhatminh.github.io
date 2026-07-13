@@ -104,9 +104,12 @@ Selected Publications
 2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
 3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
 4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Major Revision, in 2026
-5. Thwal Chu Myaet, Ye Lin Tun, **Minh NH Nguyen**, Eui-Nam Huh, and Choong Seon Hong "CLIP-PING: Lightweight CLIP Models with Proximus Intrinsic Neighbors Guidance for Resource-Constrained Vision-Language Systems", Accepted in Neurocomputing, 2026
+5. Thwal Chu Myaet, Ye Lin Tun, **Minh N.H. Nguyen**, Eui-Nam Huh, and Choong Seon Hong "CLIP-PING: Lightweight CLIP Models with Proximus Intrinsic Neighbors Guidance for Resource-Constrained Vision-Language Systems", Accepted in Neurocomputing, 2026
 6. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
 7. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", SN Computer Science 7, no. 2 (2026): 151. [Link](https://link.springer.com/article/10.1007/s42979-026-04753-8)
+8. "Context-Guided BiomedUNet for Multimodal Kidney Mass Segmentation", Submitted to ACCV, 2026
+9. "A Lightweight URL-HTML Risk Scoring Framework with Confidence-Aware Routing for Phishing Website Detection", Submitted to VNICT2026, 2026
+10. "Are Software Metrics Obsolete in the Era of Code-LLMs? An Empirical Study on Code Smell Detection" has been submitted to Journal of Software", Submitted in 2026
    
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A comparative study of handling imbalanced data using generative adversarial networks for machine learning based software fault prediction", *Applied Intelligence 55, no. 4 (2025): 280*, J55, 280, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
