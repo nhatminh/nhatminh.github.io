@@ -28,7 +28,7 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
 4. **Minh N. H. Nguyen**, Anh Tran et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Arxiv](https://arxiv.org/abs/2508.19270),[Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_20)
 5. **Minh N. H. Nguyen**, Cuong Duong et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of The 14th Conference on Information Technology and its Applications CITA 2025*, [Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_58)
 6. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of The 14th Conference on Information Technology and its Applications CITA 2025*, [Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_21)
-7. Doan K. Nguyen, **Minh N. H. Nguyen**, Anh Tran, "Gen-Plan: An Automated Framework for Generalized Planning in Finance Agent", *in Proceedings of The 14th Conference on Information Technology and its Applications CITA 2025*, 2025, [Link](https://ieeexplore.ieee.org/abstract/document/11551640/)
+7. Doan K. Nguyen, **Minh N. H. Nguyen**, Anh Tran, "Gen-Plan: An Automated Framework for Generalized Planning in Finance Agent", *in Proceedings of Conference on Digital Economy and Fintech Innovation (DEFI), 2025, [Link](https://ieeexplore.ieee.org/abstract/document/11551640/)
    
 2024
 =====
