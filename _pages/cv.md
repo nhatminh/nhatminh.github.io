@@ -92,7 +92,7 @@ Awards
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
 + Professional Startup Pitching:
   - ShieldNet, AI-based abused web detection platform ([shieldnet.asia](https://shieldnet.asia)) in Top10 VN AI Stars 2025, National Innovation Youth Award 2025, Top10 Univenture 2025.
-  - ([Edumate](https://edumate.id.vn)) - AI assisted Learning Platform in Top10 Finalist VN AI Stars 2026
+  - [Edumate](https://edumate.id.vn) - AI assisted Learning Platform in Top10 Finalist VN AI Stars 2026
   - Medipath, AI based healthcare platform ([medipath.asia](https://medipath.asia/en)) in Top10 Univenture 2025
   - CoResearch, Agentic Deep Research Platform ([coresearch.asia](https://coresearch.asia)) 
 
@@ -114,9 +114,9 @@ Selected Publications
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A comparative study of handling imbalanced data using generative adversarial networks for machine learning based software fault prediction", *Applied Intelligence 55, no. 4 (2025): 280*, J55, 280, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
 2. Ye Lin Tun, Chu Myaet Thwal, **Minh N. H. Nguyen**, Choong Seon Hong, "Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training", IEEE Internet of Things Journal, vol. 12, no. 13, pp. 23207-23221, 1 July, 2025, doi: 10.1109/JIOT.2025.3554541, [Arxiv](https://arxiv.org/abs/2407.15426), [IEEE](https://ieeexplore.ieee.org/document/10938553)
-3. Huy Q. Le, Chu Myaet Thwal, Yu Qiao, Ye Lin Tun, **Minh N. H. Nguyen**, Eui-Nam Huh, Choong Seon Hong, "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Information Fusion, Volume 122, 2025, [Arxiv](https://arxiv.org/abs/2401.13898), [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002921)
-4. **Minh N. H. Nguyen**, Anh Tran et. al "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Arxiv](https://arxiv.org/abs/2508.19270),[Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_20)
-5. **Minh N. H. Nguyen**, Cuong Duong et. al "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of The 14th Conference on Information Technology and its Applications CITA 2025*, [Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_58)
+3. Huy Q. Le, Chu Myaet Thwal, Yu Qiao, Ye Lin Tun, **Minh N. H. Nguyen***, Eui-Nam Huh, Choong Seon Hong, "Cross-Modal Prototype based Multimodal Federated Learning under Severe Missing Modality", Information Fusion, Volume 122, 2025, [Arxiv](https://arxiv.org/abs/2401.13898), [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002921)
+4. **Minh N. H. Nguyen**, Anh Tran, Dinh Dung Truong, Van Nam Vo, Pham Tuyen Le "Whisper based Cross-Lingual Phoneme Recognition between Vietnamese and English", *in Proceedings of CITA 2025 (indexed by Scopus)*, [Arxiv](https://arxiv.org/abs/2508.19270),[Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_20)
+5. **Minh N. H. Nguyen**, Cuong Duong, Van Ngoc Vinh Pham, Nguyen Tran Chi Khang, Doan Quang Thang, Dinh Phuc Le, Thi Phuong Thao Nguyen, Thanh Binh Nguyen "Self-supervised Colorization Driven Two-Stage Coffee Leaf Disease Detection", *in Proceedings of The 14th Conference on Information Technology and its Applications CITA 2025*, [Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_58)
 6. Nguyen Q. Vuong, Le T.P. Quy, Pham V. Nam, Ton T. Ron, Phung A. Sang, Truong T.Q. Dung, Nguyen N.X. Quynh, and **Nguyen Huu Nhat Minh** "A Comparative Study on Domain and Content-Based Approaches for Abusive Website Detection", *in Proceedings of The 14th Conference on Information Technology and its Applications CITA 2025*, [Link](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_21)
 7. Doan K. Nguyen, **Minh N. H. Nguyen**, Anh Tran, "Gen-Plan: An Automated Framework for Generalized Planning in Finance Agent", *in Proceedings of Conference on Digital Economy and Fintech Innovation (DEFI), 2025, [Link](https://ieeexplore.ieee.org/abstract/document/11551640/)
 
