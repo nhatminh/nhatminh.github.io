@@ -91,8 +91,8 @@ Awards
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
 + Professional Startup Pitching:
-  - ShieldNet,AI based abuse web detection platform ([shieldnet.asia](https://shieldnet.asia))in Top10 VN AI Stars 2025, National Innovation Youth Award 2025, Top10 Univenture 2025:
-  - Edumate (https://edumate.id.vn)) - AI assisted Learning Platform in Top10 Finalist VN AI Stars 2026
+  - ShieldNet, AI-based abused web detection platform ([shieldnet.asia](https://shieldnet.asia))in Top10 VN AI Stars 2025, National Innovation Youth Award 2025, Top10 Univenture 2025:
+  - Edumate [(https://edumate.id.vn)) - AI assisted Learning Platform in Top10 Finalist VN AI Stars 2026
   - Medipath, AI based healthcare platform ([medipath.asia](https://medipath.asia/en)) in Top10 Univenture 2025
   - CoResearch, Agentic Deep Research Platform ([coresearch.asia](https://coresearch.asia)) 
 
