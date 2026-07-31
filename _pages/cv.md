@@ -108,7 +108,7 @@ Selected Publications
 6. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
 7. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", SN Computer Science 7, no. 2 (2026): 151. [Link](https://link.springer.com/article/10.1007/s42979-026-04753-8)
 8. "Context-Guided BiomedUNet for Multimodal Kidney Mass Segmentation", Submitted to ACCV, 2026
-9. "A Lightweight URL-HTML Risk Scoring Framework with Confidence-Aware Routing for Phishing Website Detection", Submitted to VNICT2026, 2026
+9. "A Lightweight URL-HTML Risk Scoring Framework with Confidence-Aware Routing for Phishing Website Detection", Accepted to VNICT2026, 2026
 10. "Are Software Metrics Obsolete in the Era of Code-LLMs? An Empirical Study on Code Smell Detection" has been submitted to Journal of Software in 2026
    
 ### 2025
