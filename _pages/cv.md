@@ -91,8 +91,8 @@ Awards
 + International/National Competitions: AWRIS, APISI, VietFuture, Eureka, Olympiad AI Competitions
 + University of Danang and Danang city : InTE, Student Research in UD and in Danang City
 + Professional Startup Pitching:
-  - ShieldNet, AI-based abused web detection platform ([shieldnet.asia](https://shieldnet.asia))in Top10 VN AI Stars 2025, National Innovation Youth Award 2025, Top10 Univenture 2025:
-  - Edumate [(https://edumate.id.vn)) - AI assisted Learning Platform in Top10 Finalist VN AI Stars 2026
+  - ShieldNet, AI-based abused web detection platform ([shieldnet.asia](https://shieldnet.asia)) in Top10 VN AI Stars 2025, National Innovation Youth Award 2025, Top10 Univenture 2025.
+  - ([Edumate](https://edumate.id.vn)) - AI assisted Learning Platform in Top10 Finalist VN AI Stars 2026
   - Medipath, AI based healthcare platform ([medipath.asia](https://medipath.asia/en)) in Top10 Univenture 2025
   - CoResearch, Agentic Deep Research Platform ([coresearch.asia](https://coresearch.asia)) 
 
@@ -103,7 +103,7 @@ Selected Publications
 1. Ha Thi Minh Phuong, Vu Thu Nguyet Pham, **Huu Nhat Minh Nguyen**, Thi My Hanh Le, John Healy, and Thanh Binh Nguyen "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Neural Computing and Applications 38, no. 6 (2026): 165, [Paper](https://link.springer.com/article/10.1007/s00521-025-11771-9)
 2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
 3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
-4. **Minh N. H. Nguyen** et. al "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains in Vietnam", Accepted in Journal of Network and Systems Management, 2026
+4. Tran The Son, Bao D. Nguyen, Dung Q. T. Truong, Sang A. Phung, Ron T. Ton, Dung D. Truong, Nam V. Pham & **Minh N. H. Nguyen*** "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains." Journal of Network and Systems Management 34, 124 (2026). https://doi.org/10.1007/s10922-026-10104-y. [Link](https://link.springer.com/article/10.1007/s10922-026-10104-y)
 5. Thwal Chu Myaet, Ye Lin Tun, **Minh N.H. Nguyen**, Eui-Nam Huh, and Choong Seon Hong "CLIP-PING: Lightweight CLIP Models with Proximus Intrinsic Neighbors Guidance for Resource-Constrained Vision-Language Systems", Accepted in Neurocomputing, 2026
 6. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
 7. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", SN Computer Science 7, no. 2 (2026): 151. [Link](https://link.springer.com/article/10.1007/s42979-026-04753-8)
