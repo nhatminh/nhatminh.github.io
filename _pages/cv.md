@@ -110,7 +110,7 @@ Selected Publications
 8. "Context-Guided BiomedUNet for Multimodal Kidney Mass Segmentation", Submitted to ACCV, 2026
 9. "A Lightweight URL-HTML Risk Scoring Framework with Confidence-Aware Routing for Phishing Website Detection", Accepted to VNICT2026, 2026
 10. "Are Software Metrics Obsolete in the Era of Code-LLMs? An Empirical Study on Code Smell Detection" has been submitted to Journal of Software in 2026
-11. Doan K. Nguyen, Minh N. H. Nguyen, "Automated Tree Knowledge Graph Construction using Ontology Expansion and Retrieval from Vietnamese History Textbooks", In Proceedings of CITA 2026 - The 15th Conference on Information Technology and its Applications.
+11. Doan K. Nguyen, **Minh N. H. Nguyen**, "Automated Tree Knowledge Graph Construction using Ontology Expansion and Retrieval from Vietnamese History Textbooks", In Proceedings of CITA 2026 - The 15th Conference on Information Technology and its Applications.
    
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A comparative study of handling imbalanced data using generative adversarial networks for machine learning based software fault prediction", *Applied Intelligence 55, no. 4 (2025): 280*, J55, 280, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
