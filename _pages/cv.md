@@ -100,10 +100,10 @@ Awards
 Selected Publications
 ======
 ### 2026
-1. Ha Thi Minh Phuong, Vu Thu Nguyet Pham, **Huu Nhat Minh Nguyen**, Thi My Hanh Le, John Healy, and Thanh Binh Nguyen "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Neural Computing and Applications 38, no. 6 (2026): 165, [Paper](https://link.springer.com/article/10.1007/s00521-025-11771-9)
-2. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
-3. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
-4. Tran The Son, Bao D. Nguyen, Dung Q. T. Truong, Sang A. Phung, Ron T. Ton, Dung D. Truong, Nam V. Pham & **Minh N. H. Nguyen*** "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains." Journal of Network and Systems Management 34, 124 (2026). https://doi.org/10.1007/s10922-026-10104-y. [Link](https://link.springer.com/article/10.1007/s10922-026-10104-y)
+1. Tran The Son, Bao D. Nguyen, Dung Q. T. Truong, Sang A. Phung, Ron T. Ton, Dung D. Truong, Nam V. Pham & **Minh N. H. Nguyen*** "A Hybrid Learning-Based Approach with Metadata Analysis to Credibility Classification of Web Domains." Journal of Network and Systems Management 34, 124 (2026). https://doi.org/10.1007/s10922-026-10104-y. [Link](https://link.springer.com/article/10.1007/s10922-026-10104-y)
+2. Ha Thi Minh Phuong, Vu Thu Nguyet Pham, **Huu Nhat Minh Nguyen**, Thi My Hanh Le, John Healy, and Thanh Binh Nguyen "A novel transformer-based software fault prediction using Syntactic Tree and Word Embedding", Neural Computing and Applications 38, no. 6 (2026): 165, [Paper](https://link.springer.com/article/10.1007/s00521-025-11771-9)
+3. "LW-FedSSL: Resource-efficient Layer-wise Federated Self-supervised Learning", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2401.11647) 
+4. "Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2501.08521)
 5. Thwal Chu Myaet, Ye Lin Tun, **Minh N.H. Nguyen**, Eui-Nam Huh, and Choong Seon Hong "CLIP-PING: Lightweight CLIP Models with Proximus Intrinsic Neighbors Guidance for Resource-Constrained Vision-Language Systems", Accepted in Neurocomputing, 2026
 6. Anh Tran, **Minh N. H. Nguyen**  et. al "TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition", Submitted in 2026, [Arxiv](https://arxiv.org/abs/2509.05983)
 7. Binh Nguyen Thanh, **Minh N.H. Nguyen**, Hanh Le Thi My, Binh Nguyen Thanh, "The Impact of Label Space Partitioning in Multi-label Code Smell Detection", SN Computer Science 7, no. 2 (2026): 151. [Link](https://link.springer.com/article/10.1007/s42979-026-04753-8)
@@ -111,6 +111,7 @@ Selected Publications
 9. "A Lightweight URL-HTML Risk Scoring Framework with Confidence-Aware Routing for Phishing Website Detection", Accepted to VNICT2026, 2026
 10. "Are Software Metrics Obsolete in the Era of Code-LLMs? An Empirical Study on Code Smell Detection" has been submitted to Journal of Software in 2026
 11. Doan K. Nguyen, **Minh N. H. Nguyen**, "Automated Tree Knowledge Graph Construction using Ontology Expansion and Retrieval from Vietnamese History Textbooks", In Proceedings of CITA 2026 - The 15th Conference on Information Technology and its Applications.
+12. "A Multi-Branch Pairwise Interaction Network for Phishing Website Detection", FAIR 2026
    
 ### 2025
 1. Ha Thi Minh Phuong, Pham Vu Thu Nguyet, **Nguyen Huu Nhat Minh**, Le Thi My Hanh & Nguyen Thanh Binh, "A comparative study of handling imbalanced data using generative adversarial networks for machine learning based software fault prediction", *Applied Intelligence 55, no. 4 (2025): 280*, J55, 280, Jan. 2025, [Paper](https://link.springer.com/article/10.1007/s10489-024-05930-z)
